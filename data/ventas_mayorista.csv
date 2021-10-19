@@ -1,0 +1,1199 @@
+﻿Medio pedido;Tipo tienda;Tipo producto;Producto;Fecha compra;Unidades venta;Precio unidad;Margen de ganancia;Libre de impuestos
+Fax;Outdoors Shop;Cooking Gear;TrailChef Deluxe Cook Set;05/01/2013;489;121.94;0.34754797;false
+Fax;Outdoors Shop;Cooking Gear;TrailChef Double Flame;19/06/2014;252;142.66;0.4742745;false
+Fax;Outdoors Shop;Tents;Star Dome;27/08/2013;147;611.84;0.35277197;false
+Fax;Outdoors Shop;Tents;Star Gazer 2;23/01/2014;303;547.47;0.28293788;false
+Fax;Outdoors Shop;Sleeping Bags;Hibernator Lite;29/08/2014;1415;84.68;0.29145017;false
+Fax;Outdoors Shop;Sleeping Bags;Hibernator Extreme;23/08/2013;352;249.23;0.39814629;false
+Fax;Outdoors Shop;Sleeping Bags;Hibernator Camp Cot;02/09/2014;426;98.21;0.33560737;false
+Fax;Outdoors Shop;Lanterns;Firefly Lite;03/10/2013;577;14.33;0.52896022;false
+Fax;Outdoors Shop;Lanterns;Firefly Extreme;18/08/2014;189;49.7;0.43420523;false
+Fax;Outdoors Shop;Lanterns;EverGlow Single;28/11/2012;579;33.5;0.46149254;false
+Fax;Outdoors Shop;Lanterns;EverGlow Butane;20/06/2014;109;63.67;0.36186587;false
+Fax;Outdoors Shop;Rope;Husky Rope 50;25/11/2012;133;150.4;0.32905585;true
+Fax;Outdoors Shop;Rope;Husky Rope 60;24/04/2013;79;178.6;0.29165733;false
+Fax;Outdoors Shop;Rope;Husky Rope 100;24/07/2013;227;325.86;0.30126435;false
+Fax;Outdoors Shop;Rope;Husky Rope 200;08/08/2013;143;540.48;0.31477575;false
+Fax;Outdoors Shop;Safety;Granite Climbing Helmet;07/04/2013;898;69.56;0.24468085;true
+Fax;Outdoors Shop;Safety;Husky Harness;24/10/2013;559;61.1;0.28363339;true
+Fax;Outdoors Shop;Safety;Husky Harness Extreme;27/01/2013;352;103.4;0.47843327;false
+Fax;Outdoors Shop;Safety;Granite Signal Mirror;17/08/2013;126;32.34;0.51422387;false
+Fax;Outdoors Shop;Climbing Accessories;Granite Carabiner;24/05/2013;4022;3.76;0.4787234;false
+Fax;Outdoors Shop;Climbing Accessories;Granite Belay;27/03/2014;296;65.8;0.47613982;false
+Fax;Outdoors Shop;Climbing Accessories;Granite Pulley;03/02/2013;427;36.86;0.50217037;false
+Fax;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;17/04/2013;464;38.79;0.42768755;false
+Fax;Outdoors Shop;Climbing Accessories;Firefly Charger;13/08/2014;710;51.4;0.56498054;true
+Fax;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;11/03/2013;1520;7.68;0.58984375;false
+Fax;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;19/11/2013;262;17.64;0.51643991;false
+Fax;Outdoors Shop;Tools;Granite Ice;30/07/2014;333;75.2;0.48178191;false
+Fax;Outdoors Shop;Tools;Granite Hammer;14/03/2013;241;75.18;0.2434158;false
+Fax;Outdoors Shop;Tools;Granite Shovel;26/04/2013;164;58.19;0.33699948;false
+Fax;Outdoors Shop;Tools;Granite Grip;08/04/2013;523;19.4;0.49020619;false
+Fax;Outdoors Shop;Tools;Granite Axe;13/07/2014;856;38.4;0.49166667;false
+Fax;Outdoors Shop;Tools;Granite Extreme;19/01/2014;566;75.2;0.38138298;false
+Fax;Outdoors Shop;Watches;Mountain Man Extreme;03/09/2013;23;282.6;0.5888535;false
+Fax;Outdoors Shop;Eyewear;Polar Sun;10/12/2012;116;60.47706897;0.56760471;false
+Fax;Outdoors Shop;Eyewear;Polar Ice;04/02/2013;37;103.4;0.51943907;false
+Fax;Outdoors Shop;Knives;Edge Extreme;27/09/2014;275;112.51;0.28895209;true
+Fax;Outdoors Shop;Knives;Bear Survival Edge;04/01/2013;97;86.75;0.48126801;false
+Fax;Outdoors Shop;Navigation;Glacier GPS Extreme;29/06/2013;114;338.02;0.4779303;false
+Fax;Outdoors Shop;Insect Repellents;BugShield Extreme;01/04/2014;3801;6.58;0.63221884;false
+Fax;Outdoors Shop;Sunscreen;Sun Shelter Stick;31/12/2013;1179;4.85;0.59587629;true
+Fax;Outdoors Shop;First Aid;Compact Relief Kit;26/10/2013;180;22.54;0.60070985;true
+Fax;Outdoors Shop;First Aid;Aloe Relief;30/04/2014;136;5.23;0.63288719;false
+Telephone;Golf Shop;Watches;Infinity;20/06/2013;50;220;0.47472727;false
+Telephone;Golf Shop;Watches;TX;06/01/2014;72;194.5;0.46098543;false
+Telephone;Golf Shop;Watches;Legend;21/11/2012;58;240.1206897;0.44401666;false
+Telephone;Golf Shop;Watches;Kodiak;12/11/2013;66;120.3;0.44272652;false
+Telephone;Golf Shop;Eyewear;Capri;06/06/2013;283;38.3;0.34125326;false
+Telephone;Golf Shop;Eyewear;Cat Eye;17/10/2012;101;43.85;0.35051311;true
+Telephone;Golf Shop;Eyewear;Dante;02/03/2014;231;42.25;0.36;false
+Telephone;Golf Shop;Eyewear;Fairway;20/09/2013;409;20.15;0.40496278;false
+Telephone;Golf Shop;Eyewear;Inferno;06/01/2014;199;65;0.39374952;false
+Telephone;Golf Shop;Eyewear;Maximus;01/04/2014;113;82.52212389;0.50874531;false
+Telephone;Golf Shop;Eyewear;Trendi;03/05/2014;181;50.3;0.39542744;false
+Telephone;Golf Shop;Eyewear;Zone;09/07/2014;149;30.7;0.33192182;false
+Telephone;Golf Shop;Knives;Max Gizmo;23/06/2013;200;38.2;0.53979058;false
+Telephone;Golf Shop;Knives;Pocket Gizmo;25/08/2013;71;12.2;0.59836066;false
+Telephone;Golf Shop;Binoculars;Ranger Vision;13/07/2013;47;160;0.5350625;false
+Telephone;Golf Shop;Navigation;Trail Master;30/07/2013;3;365;0.34767123;false
+Telephone;Golf Shop;Irons;Hailstorm Steel Irons;15/10/2013;72;394.9233333;0.44039771;false
+Telephone;Golf Shop;Irons;Hailstorm Titanium Irons;12/05/2013;75;872.82;0.43751289;true
+Telephone;Golf Shop;Irons;Lady Hailstorm Steel Irons;07/11/2012;32;500.79;0.44535634;false
+Telephone;Golf Shop;Irons;Lady Hailstorm Titanium Irons;19/02/2014;65;835.68;0.44955007;false
+Telephone;Golf Shop;Woods;Hailstorm Titanium Woods Set;23/05/2014;89;1194.82;0.42250716;false
+Telephone;Golf Shop;Woods;Hailstorm Steel Woods Set;19/04/2013;44;683.9781818;0.50056886;true
+Telephone;Golf Shop;Woods;Lady Hailstorm Titanium Woods Set;03/12/2012;27;1278.14;0.48311609;true
+Telephone;Golf Shop;Woods;Lady Hailstorm Steel Woods Set;07/07/2014;62;856.17;0.44845066;false
+Telephone;Golf Shop;Putters;Course Pro Putter;24/10/2013;349;72.25;0.51695502;false
+Telephone;Golf Shop;Putters;Blue Steel Putter;08/02/2013;112;84.6175;0.51310308;false
+Telephone;Golf Shop;Putters;Blue Steel Max Putter;07/09/2014;236;169.79;0.45933212;false
+Telephone;Golf Shop;Golf Accessories;Course Pro Golf and Tee Set;14/01/2014;471;9.964968153;0.71901566;false
+Telephone;Golf Shop;Golf Accessories;Course Pro Umbrella;18/11/2013;492;12.01432927;0.50059634;false
+Telephone;Golf Shop;Golf Accessories;Course Pro Golf Bag;27/12/2012;42;205.045;0.61130484;true
+Telephone;Golf Shop;Golf Accessories;Course Pro Gloves;07/01/2014;1637;6.584557117;0.63399209;false
+Telephone;Department Store;Cooking Gear;TrailChef Canteen;24/05/2014;2063;8.77;0.49600912;false
+Telephone;Department Store;Cooking Gear;TrailChef Kitchen Kit;30/06/2013;3592;22.89924276;0.30434381;false
+Telephone;Department Store;Cooking Gear;TrailChef Cup;17/05/2014;6134;3.494413107;0.75675458;false
+Telephone;Department Store;Cooking Gear;TrailChef Cook Set;17/11/2012;1331;52.89322314;0.3388567;false
+Telephone;Department Store;Cooking Gear;TrailChef Deluxe Cook Set;13/11/2013;632;121.94;0.34754797;false
+Telephone;Department Store;Cooking Gear;TrailChef Single Flame;20/04/2014;360;62.76;0.26099426;false
+Telephone;Department Store;Cooking Gear;TrailChef Kettle;23/05/2014;17492;7.93;0.49684741;false
+Telephone;Department Store;Cooking Gear;TrailChef Utensils;25/08/2014;609;18.71;0.46552646;true
+Telephone;Department Store;Tents;Star Dome;20/07/2014;398;611.84;0.35277197;false
+Telephone;Department Store;Tents;Star Gazer 2;10/10/2013;302;547.47;0.28293788;false
+Telephone;Department Store;Tents;Star Gazer 6;07/09/2013;172;783.0825581;0.37426776;false
+Telephone;Department Store;Tents;Star Peg;03/04/2014;1129;2;0.5;true
+Telephone;Department Store;Sleeping Bags;Hibernator Lite;08/05/2013;601;84.68;0.29145017;true
+Telephone;Department Store;Sleeping Bags;Hibernator;04/08/2013;1160;138.02;0.3769019;false
+Telephone;Department Store;Sleeping Bags;Hibernator Self - Inflating Mat;17/02/2014;556;119.63;0.5440107;false
+Telephone;Department Store;Sleeping Bags;Hibernator Pad;14/05/2014;411;39.43;0.51382196;false
+Telephone;Department Store;Sleeping Bags;Hibernator Pillow;31/10/2012;2475;13.54360404;0.46298346;false
+Telephone;Department Store;Sleeping Bags;Hibernator Camp Cot;06/11/2012;1529;98.21;0.33560737;false
+Telephone;Department Store;Packs;Canyon Mule Climber Backpack;07/05/2013;951;73.38432177;0.28458833;false
+Telephone;Department Store;Packs;Canyon Mule Weekender Backpack;26/09/2014;1552;268.74;0.37984669;true
+Telephone;Department Store;Packs;Canyon Mule Journey Backpack;22/08/2013;676;348.61;0.38805542;false
+Telephone;Department Store;Packs;Canyon Mule Cooler;20/08/2014;1652;32.58;0.50890117;false
+Telephone;Department Store;Packs;Canyon Mule Carryall;14/06/2013;388;69.09;0.40396584;false
+Telephone;Department Store;Lanterns;Firefly Lite;10/11/2012;689;14.33;0.52896022;false
+Telephone;Department Store;Lanterns;Firefly Mapreader;02/02/2014;2027;15.82612728;0.52610011;false
+Telephone;Department Store;Lanterns;Firefly 2;24/12/2013;2899;26.44363919;0.36960265;false
+Telephone;Department Store;Lanterns;Firefly 4;19/02/2014;338;28.85;0.37608319;false
+Telephone;Department Store;Lanterns;Firefly Multi-light;04/05/2014;1536;25.90189453;0.31356372;false
+Telephone;Department Store;Lanterns;EverGlow Single;12/12/2012;603;33.5;0.46149254;false
+Telephone;Department Store;Lanterns;EverGlow Double;28/05/2013;158;51.11;0.43748777;false
+Telephone;Department Store;Lanterns;EverGlow Butane;26/10/2013;382;63.67;0.36186587;false
+Telephone;Department Store;Lanterns;EverGlow Lamp;06/05/2013;3903;26.90790161;0.33216643;true
+Telephone;Department Store;Watches;Mountain Man Analog;11/01/2013;592;47.41;0.36722211;false
+Telephone;Department Store;Watches;Mountain Man Digital;13/12/2012;476;34.87088235;0.42645558;false
+Telephone;Department Store;Watches;Mountain Man Deluxe;17/01/2013;102;76.66;0.49126011;false
+Telephone;Department Store;Watches;Mountain Man Combination;23/04/2014;59;94.09;0.52173451;true
+Telephone;Department Store;Watches;Venue;27/08/2014;801;72.27715356;0.41955609;true
+Telephone;Department Store;Watches;Infinity;03/10/2014;50;220;0.47406545;false
+Telephone;Department Store;Watches;Lux;13/02/2013;122;165.1540984;0.47891388;false
+Telephone;Department Store;Watches;TX;06/11/2012;498;190.2891566;0.45432464;false
+Telephone;Department Store;Watches;Legend;08/06/2013;325;255.1476923;0.4488347;false
+Telephone;Department Store;Watches;Kodiak;14/12/2013;202;121.020297;0.44695391;false
+Telephone;Department Store;Eyewear;Polar Sun;10/10/2012;426;60.53450704;0.56801498;false
+Telephone;Department Store;Eyewear;Polar Ice;26/03/2014;200;104.1755;0.52301645;true
+Telephone;Department Store;Eyewear;Polar Sports;02/09/2013;89;115.34;0.48950928;false
+Telephone;Department Store;Eyewear;Polar Wave;18/03/2013;53;94.57490566;0.56521236;false
+Telephone;Department Store;Eyewear;Bella;24/07/2013;133;67.5;0.45348148;false
+Telephone;Department Store;Eyewear;Capri;22/07/2013;1069;38.3;0.34160497;false
+Telephone;Department Store;Eyewear;Cat Eye;16/08/2013;1109;26.8;0.31633514;false
+Telephone;Department Store;Eyewear;Dante;09/08/2014;957;43.73296761;0.35135028;false
+Telephone;Department Store;Eyewear;Fairway;03/06/2013;1797;20.15;0.40343832;false
+Telephone;Department Store;Eyewear;Inferno;16/07/2014;582;65;0.39393762;false
+Telephone;Department Store;Eyewear;Maximus;07/09/2014;566;81.21024735;0.50212553;false
+Telephone;Department Store;Eyewear;Trendi;05/09/2014;427;50.3;0.39539112;false
+Telephone;Department Store;Eyewear;Zone;19/10/2012;4401;30.55501022;0.32463796;false
+Telephone;Department Store;Eyewear;Hawk Eye;29/01/2013;200;40.5;0.40918025;true
+Telephone;Department Store;Knives;Bear Survival Edge;01/08/2013;150;87.65486667;0.48662291;false
+Telephone;Department Store;Knives;Max Gizmo;21/02/2014;544;38.2;0.53960675;false
+Telephone;Department Store;Knives;Pocket Gizmo;03/07/2013;875;12.2;0.60327681;false
+Telephone;Department Store;Binoculars;Seeker 35;18/01/2014;634;98.97;0.28069112;true
+Telephone;Department Store;Binoculars;Seeker 50;09/03/2014;686;126.06;0.26558782;true
+Telephone;Department Store;Binoculars;Opera Vision;18/03/2014;138;110;0.54206983;false
+Telephone;Department Store;Binoculars;Ranger Vision;01/01/2014;92;160;0.43611413;false
+Telephone;Department Store;Navigation;Glacier Basic;31/07/2013;2257;31.26291094;0.36026431;false
+Telephone;Department Store;Navigation;Glacier GPS;24/09/2014;351;109.73;0.28415201;false
+Telephone;Department Store;Navigation;Trail Scout;15/01/2013;41;238;0.35798319;false
+Telephone;Department Store;Insect Repellents;BugShield Spray;29/11/2013;2661;5.926662909;0.6912259;false
+Telephone;Department Store;Insect Repellents;BugShield Lotion Lite;18/04/2014;2865;6.925382199;0.72853484;false
+Telephone;Department Store;Insect Repellents;BugShield Lotion;08/04/2014;4637;6.825883114;0.65865223;false
+Telephone;Department Store;Sunscreen;Sun Blocker;21/05/2014;2000;4.8;0.59375;true
+Telephone;Department Store;Sunscreen;Sun Shelter 15;18/02/2013;3267;4.8;0.62708333;false
+Telephone;Department Store;Sunscreen;Sun Shelter 30;13/08/2013;7865;4.727940242;0.6087091;false
+Telephone;Department Store;Sunscreen;Sun Shield;26/05/2013;2034;5.83640118;0.52710585;false
+Telephone;Department Store;First Aid;Compact Relief Kit;26/01/2013;143;22.54;0.60070985;true
+Telephone;Department Store;First Aid;Deluxe Family Relief Kit;08/12/2012;988;34.00809717;0.58715714;true
+Telephone;Department Store;First Aid;Calamine Relief;14/03/2013;235;6;0.52833333;false
+Telephone;Department Store;First Aid;Aloe Relief;05/10/2013;572;5.23;0.63288719;false
+Telephone;Department Store;First Aid;Insect Bite Relief;10/04/2013;425;6;0.54;false
+Telephone;Department Store;Irons;Hailstorm Steel Irons;11/11/2012;691;363.3694067;0.3918035;false
+Telephone;Department Store;Irons;Lady Hailstorm Steel Irons;13/02/2014;332;500.79;0.44535634;false
+Telephone;Department Store;Woods;Hailstorm Steel Woods Set;09/08/2013;559;687.1972809;0.50290839;false
+Telephone;Department Store;Woods;Lady Hailstorm Steel Woods Set;14/05/2013;128;856.17;0.44845066;true
+Telephone;Department Store;Putters;Course Pro Putter;17/09/2014;3430;72.25;0.51695502;false
+Telephone;Department Store;Putters;Blue Steel Putter;05/02/2014;1420;85.06721127;0.51567708;false
+Telephone;Department Store;Golf Accessories;Course Pro Golf and Tee Set;10/03/2013;3433;9.932385669;0.71809391;false
+Telephone;Department Store;Golf Accessories;Course Pro Umbrella;23/05/2013;3890;11.89745244;0.49569036;false
+Telephone;Department Store;Golf Accessories;Course Pro Golf Bag;07/01/2013;202;202.015495;0.60547581;false
+Telephone;Department Store;Golf Accessories;Course Pro Gloves;18/06/2013;1386;10.32285714;0.7665375;false
+Telephone;Warehouse Store;Cooking Gear;TrailChef Cook Set;06/05/2014;2610;51.94061303;0.32673109;false
+Telephone;Warehouse Store;Cooking Gear;TrailChef Deluxe Cook Set;18/05/2014;1435;121.94;0.34754797;false
+Telephone;Warehouse Store;Cooking Gear;TrailChef Utensils;16/01/2013;2973;18.29367978;0.45336312;false
+Telephone;Warehouse Store;Tents;Star Lite;06/08/2013;3479;347.92;0.28144401;false
+Telephone;Warehouse Store;Tents;Star Gazer 2;19/09/2014;1102;547.47;0.28293788;false
+Telephone;Warehouse Store;Tents;Star Gazer 3;04/09/2014;572;636.41;0.3306202;true
+Telephone;Warehouse Store;Sleeping Bags;Hibernator Extreme;06/04/2014;1399;249.23;0.39814629;false
+Telephone;Warehouse Store;Lanterns;Firefly Mapreader;20/12/2012;2762;15.44270094;0.51433366;false
+Telephone;Warehouse Store;Lanterns;Firefly Extreme;29/09/2014;648;49.7;0.43420523;false
+Telephone;Warehouse Store;Lanterns;EverGlow Single;03/09/2014;1483;33.16;0.45597105;true
+Telephone;Warehouse Store;Knives;Single Edge;09/08/2013;12121;12.01;0.28726062;true
+Telephone;Warehouse Store;Knives;Double Edge;20/07/2014;2448;15.90341912;0.28128663;false
+Telephone;Warehouse Store;Knives;Bear Edge;21/03/2014;957;39.01327064;0.39687189;false
+Telephone;Warehouse Store;Navigation;Glacier Deluxe;07/11/2012;1068;90.65;0.37970215;false
+Telephone;Warehouse Store;Insect Repellents;BugShield Natural;03/10/2014;9305;5.662207415;0.67150621;false
+Telephone;Warehouse Store;Sunscreen;Sun Shelter Stick;16/11/2012;3130;4.7;0.58297872;false
+Telephone;Warehouse Store;Sunscreen;Sun Shelter 15;02/03/2014;11690;4.727527802;0.62136658;false
+Telephone;Warehouse Store;Sunscreen;Sun Shield;21/02/2013;4906;5.690008153;0.51493918;true
+Telephone;Warehouse Store;First Aid;Compact Relief Kit;02/12/2012;640;22.54;0.60070985;false
+Telephone;Outdoors Shop;Cooking Gear;TrailChef Water Bag;13/09/2014;8356;3.95;0.46582278;false
+Telephone;Outdoors Shop;Cooking Gear;TrailChef Kitchen Kit;16/12/2012;886;23.09;0.31009095;false
+Telephone;Outdoors Shop;Cooking Gear;TrailChef Cup;07/04/2013;1467;3.55;0.76056338;false
+Telephone;Outdoors Shop;Cooking Gear;TrailChef Double Flame;17/07/2014;240;142.66;0.4742745;false
+Telephone;Outdoors Shop;Cooking Gear;TrailChef Utensils;06/11/2013;1345;18.52;0.4600432;false
+Telephone;Outdoors Shop;Sleeping Bags;Hibernator Lite;04/07/2013;649;84.68;0.29145017;false
+Telephone;Outdoors Shop;Sleeping Bags;Hibernator Extreme;03/07/2013;312;249.23;0.39814629;false
+Telephone;Outdoors Shop;Packs;Canyon Mule Extreme Backpack;06/02/2013;129;432.89;0.4481739;false
+Telephone;Outdoors Shop;Packs;Canyon Mule Carryall;06/02/2013;529;69.09;0.40396584;false
+Telephone;Outdoors Shop;Lanterns;Firefly Lite;10/07/2014;610;14.33;0.52896022;false
+Telephone;Outdoors Shop;Lanterns;Firefly Mapreader;31/03/2013;759;15.8;0.52531646;true
+Telephone;Outdoors Shop;Lanterns;EverGlow Kerosene;03/01/2014;326;30.92;0.35316947;false
+Telephone;Outdoors Shop;Lanterns;EverGlow Butane;04/03/2014;125;63.67;0.36186587;false
+Telephone;Outdoors Shop;Rope;Husky Rope 50;18/05/2014;139;150.4;0.32905585;false
+Telephone;Outdoors Shop;Rope;Husky Rope 200;17/05/2014;61;540.48;0.31477575;true
+Telephone;Outdoors Shop;Safety;Granite Climbing Helmet;27/02/2014;909;69.56;0.24468085;true
+Telephone;Outdoors Shop;Safety;Husky Harness;30/01/2014;572;61.1;0.28363339;false
+Telephone;Outdoors Shop;Safety;Husky Harness Extreme;17/06/2013;434;103.4;0.47843327;false
+Telephone;Outdoors Shop;Safety;Granite Signal Mirror;06/02/2013;126;32.34;0.51422387;false
+Telephone;Outdoors Shop;Climbing Accessories;Granite Carabiner;06/04/2013;7639;3.76;0.4787234;false
+Telephone;Outdoors Shop;Climbing Accessories;Granite Belay;07/09/2013;596;65.8;0.47613982;false
+Telephone;Outdoors Shop;Climbing Accessories;Granite Pulley;07/04/2014;545;36.48;0.49698465;false
+Telephone;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;24/02/2014;249;38.79;0.42768755;false
+Telephone;Outdoors Shop;Climbing Accessories;Firefly Charger;28/07/2013;346;51.4;0.56498054;false
+Telephone;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;06/03/2014;1544;7.68;0.58984375;true
+Telephone;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;15/09/2013;266;17.64;0.51643991;false
+Telephone;Outdoors Shop;Tools;Granite Ice;29/09/2013;385;75.2;0.48178191;false
+Telephone;Outdoors Shop;Tools;Granite Hammer;31/10/2013;257;75.18;0.2434158;false
+Telephone;Outdoors Shop;Tools;Granite Shovel;13/10/2013;179;58.19;0.33699948;true
+Telephone;Outdoors Shop;Tools;Granite Grip;21/09/2014;506;19.4;0.49020619;true
+Telephone;Outdoors Shop;Tools;Granite Axe;31/10/2013;805;38.4;0.49166667;false
+Telephone;Outdoors Shop;Tools;Granite Extreme;04/06/2014;1194;75.2;0.38138298;false
+Telephone;Outdoors Shop;Watches;Mountain Man Analog;29/09/2013;98;47.9;0.3736952;false
+Telephone;Outdoors Shop;Watches;Mountain Man Combination;14/05/2014;59;94.09;0.52173451;false
+Telephone;Outdoors Shop;Watches;Venue;07/05/2013;548;71.9270073;0.41927745;false
+Telephone;Outdoors Shop;Watches;Infinity;15/12/2013;84;224.5238095;0.46155143;false
+Telephone;Outdoors Shop;Watches;Lux;23/05/2013;98;170.3346939;0.47484904;true
+Telephone;Outdoors Shop;Watches;Sam;26/04/2013;298;44.9;0.38841871;false
+Telephone;Outdoors Shop;Watches;TX;17/05/2014;351;188.6951567;0.45314319;false
+Telephone;Outdoors Shop;Watches;Legend;14/03/2013;232;258.162069;0.43754258;false
+Telephone;Outdoors Shop;Watches;Kodiak;21/02/2014;189;122.0449735;0.45080008;false
+Telephone;Outdoors Shop;Eyewear;Polar Extreme;18/02/2014;15;145.33;0.50113535;false
+Telephone;Outdoors Shop;Eyewear;Bella;29/12/2013;16;67.5;0.45417593;false
+Telephone;Outdoors Shop;Eyewear;Capri;31/07/2014;62;38.3;0.34020888;false
+Telephone;Outdoors Shop;Eyewear;Cat Eye;10/11/2012;1864;30.0014485;0.32482248;false
+Telephone;Outdoors Shop;Eyewear;Dante;02/08/2014;751;42.91471372;0.35601532;false
+Telephone;Outdoors Shop;Eyewear;Fairway;07/07/2014;578;20.15;0.40441069;false
+Telephone;Outdoors Shop;Eyewear;Maximus;21/02/2014;387;81.42118863;0.50259759;false
+Telephone;Outdoors Shop;Eyewear;Trendi;05/10/2013;557;50.3;0.39555057;true
+Telephone;Outdoors Shop;Eyewear;Zone;29/07/2013;2802;30.75192719;0.32764797;false
+Telephone;Outdoors Shop;Eyewear;Hawk Eye;28/06/2013;106;40.5;0.39901235;false
+Telephone;Outdoors Shop;Knives;Max Gizmo;20/10/2012;241;38.2;0.53979058;false
+Telephone;Outdoors Shop;Knives;Pocket Gizmo;26/02/2013;923;12.2;0.59836066;true
+Telephone;Outdoors Shop;Binoculars;Seeker Extreme;11/08/2014;81;171.71;0.45186652;true
+Telephone;Outdoors Shop;Binoculars;Seeker Mini;21/03/2014;122;80.43;0.50267313;false
+Telephone;Outdoors Shop;Binoculars;Opera Vision;24/02/2014;56;110;0.544;false
+Telephone;Outdoors Shop;Binoculars;Ranger Vision;20/05/2014;69;160;0.42833152;false
+Telephone;Outdoors Shop;Navigation;Glacier GPS;08/07/2014;352;109.73;0.28415201;false
+Telephone;Outdoors Shop;Navigation;Glacier GPS Extreme;22/11/2013;117;338.02;0.4779303;false
+Telephone;Outdoors Shop;Navigation;Trail Master;17/12/2013;63;365;0.34825788;false
+Telephone;Outdoors Shop;Navigation;Trail Scout;30/10/2013;25;238;0.35798319;true
+Telephone;Outdoors Shop;Insect Repellents;BugShield Extreme;20/09/2014;3479;6.58;0.63221884;false
+Telephone;Outdoors Shop;Sunscreen;Sun Shelter 30;28/12/2012;2841;4.7;0.60638298;false
+Telephone;Outdoors Shop;First Aid;Compact Relief Kit;07/06/2013;153;22.54;0.60070985;false
+Telephone;Eyewear Store;Watches;Mountain Man Analog;13/06/2013;719;47.41;0.36722211;false
+Telephone;Eyewear Store;Eyewear;Polar Sun;24/04/2014;668;59.59979042;0.56124007;false
+Telephone;Eyewear Store;Eyewear;Polar Ice;01/11/2012;249;104.0493976;0.52243837;false
+Telephone;Eyewear Store;Eyewear;Polar Sports;04/08/2014;168;115.34;0.48950928;false
+Telephone;Eyewear Store;Eyewear;Polar Wave;02/11/2013;81;93.71;0.56119945;false
+Telephone;Eyewear Store;Eyewear;Polar Extreme;22/04/2013;33;145.33;0.50113535;false
+Telephone;Eyewear Store;Binoculars;Seeker 35;03/02/2014;295;98.97;0.28069112;false
+Telephone;Eyewear Store;Binoculars;Seeker Extreme;30/01/2014;84;171.71;0.45186652;false
+Telephone;Eyewear Store;Navigation;Glacier GPS;17/06/2014;367;109.73;0.28415201;true
+Telephone;Sports Store;Cooking Gear;TrailChef Water Bag;12/05/2013;2898;6.19;0.5266559;false
+Telephone;Sports Store;Cooking Gear;TrailChef Canteen;11/12/2012;3382;10.63889415;0.47020434;false
+Telephone;Sports Store;Cooking Gear;TrailChef Single Flame;09/01/2013;3032;62.76;0.26099426;false
+Telephone;Sports Store;Cooking Gear;TrailChef Utensils;19/10/2013;301;18.9;0.47089947;true
+Telephone;Sports Store;Tents;Star Lite;12/06/2013;544;347.92;0.28144401;true
+Telephone;Sports Store;Tents;Star Gazer 2;21/02/2014;334;547.47;0.28293788;false
+Telephone;Sports Store;Tents;Star Gazer 3;02/09/2014;268;636.41;0.3306202;false
+Telephone;Sports Store;Tents;Star Gazer 6;15/02/2014;40;781.97;0.3733775;false
+Telephone;Sports Store;Tents;Star Peg;05/05/2013;2450;1.96;0.48979592;false
+Telephone;Sports Store;Sleeping Bags;Hibernator;26/05/2014;1055;138.02;0.3769019;false
+Telephone;Sports Store;Sleeping Bags;Hibernator Self - Inflating Mat;26/01/2014;454;119.63;0.5440107;false
+Telephone;Sports Store;Packs;Canyon Mule Climber Backpack;20/04/2013;89;76.86;0.31693989;false
+Telephone;Sports Store;Packs;Canyon Mule Extreme Backpack;25/08/2014;147;432.89;0.4481739;false
+Telephone;Sports Store;Packs;Canyon Mule Cooler;02/07/2013;837;32.58;0.50890117;true
+Telephone;Sports Store;Packs;Canyon Mule Carryall;16/11/2013;463;69.09;0.40396584;false
+Telephone;Sports Store;Lanterns;Firefly 4;20/03/2014;769;23.55;0.38853503;false
+Telephone;Sports Store;Lanterns;Firefly Extreme;05/09/2014;180;49.7;0.43420523;false
+Telephone;Sports Store;Lanterns;EverGlow Kerosene;02/04/2014;297;30.92;0.35316947;true
+Telephone;Sports Store;Lanterns;EverGlow Butane;05/06/2013;126;63.67;0.36186587;true
+Telephone;Sports Store;Lanterns;EverGlow Lamp;17/04/2014;952;26.98;0.33395107;false
+Telephone;Sports Store;Lanterns;Flicker Lantern;15/05/2014;210;34.04;0.54112808;false
+Telephone;Sports Store;Watches;Mountain Man Analog;28/10/2013;123;47.41;0.36722211;false
+Telephone;Sports Store;Watches;Mountain Man Digital;07/11/2012;89;29.13;0.31342259;false
+Telephone;Sports Store;Watches;Mountain Man Combination;11/06/2013;60;94.09;0.52173451;false
+Telephone;Sports Store;Watches;Mountain Man Extreme;24/01/2013;48;282.6;0.5888535;false
+Telephone;Sports Store;Watches;Venue;06/02/2013;102;70;0.41971429;true
+Telephone;Sports Store;Watches;Infinity;03/06/2014;33;220;0.47472727;false
+Telephone;Sports Store;Watches;Lux;22/05/2013;49;167.2;0.47703349;false
+Telephone;Sports Store;Watches;Sam;05/12/2013;166;44.9;0.38841871;false
+Telephone;Sports Store;Watches;TX;13/04/2013;144;191.9166667;0.45761543;false
+Telephone;Sports Store;Watches;Legend;10/09/2014;71;261.9239437;0.44619231;false
+Telephone;Sports Store;Watches;Kodiak;14/07/2014;104;121.9788462;0.4505384;false
+Telephone;Sports Store;Eyewear;Polar Sun;15/04/2013;288;60.27923611;0.56618561;false
+Telephone;Sports Store;Eyewear;Polar Ice;26/09/2014;39;103.4;0.51943907;false
+Telephone;Sports Store;Eyewear;Bella;12/09/2013;115;67.5;0.4557037;false
+Telephone;Sports Store;Eyewear;Capri;15/11/2013;228;38.3;0.34020888;false
+Telephone;Sports Store;Eyewear;Cat Eye;03/07/2013;614;36.38021173;0.33994883;false
+Telephone;Sports Store;Eyewear;Dante;06/02/2013;718;42.66225627;0.35748755;true
+Telephone;Sports Store;Eyewear;Inferno;21/03/2013;118;65;0.39461538;false
+Telephone;Sports Store;Eyewear;Zone;13/01/2014;1169;30.52857143;0.32486725;false
+Telephone;Sports Store;Eyewear;Hawk Eye;26/09/2014;180;40.5;0.39975309;false
+Telephone;Sports Store;Knives;Double Edge;17/07/2014;2643;16.05625426;0.28812786;true
+Telephone;Sports Store;Knives;Edge Extreme;22/06/2014;260;112.51;0.28895209;true
+Telephone;Sports Store;Knives;Bear Edge;09/03/2014;632;39.3;0.40127226;false
+Telephone;Sports Store;Knives;Bear Survival Edge;17/04/2013;76;86.75;0.48126801;false
+Telephone;Sports Store;Knives;Pocket Gizmo;15/09/2014;297;12.2;0.61725727;false
+Telephone;Sports Store;Binoculars;Seeker 35;12/07/2013;270;98.97;0.28069112;false
+Telephone;Sports Store;Binoculars;Seeker Mini;22/03/2013;432;80.43;0.50267313;false
+Telephone;Sports Store;Binoculars;Ranger Vision;06/05/2013;45;160;0.5350625;false
+Telephone;Sports Store;Navigation;Glacier Basic;27/09/2013;1743;31.74;0.36988028;true
+Telephone;Sports Store;Navigation;Trail Master;03/07/2014;24;365;0.34767123;false
+Telephone;Sports Store;Navigation;Trail Scout;28/05/2013;35;238;0.35798319;false
+Telephone;Sports Store;Insect Repellents;BugShield Spray;28/01/2014;947;5.89;0.6893039;false
+Telephone;Sports Store;Sunscreen;Sun Shelter Stick;07/07/2014;1341;4.85;0.59587629;false
+Telephone;Sports Store;Sunscreen;Sun Shelter 30;17/04/2013;3152;4.7;0.60638298;false
+Telephone;Sports Store;First Aid;Calamine Relief;14/12/2013;103;6;0.52833333;false
+Telephone;Sports Store;First Aid;Insect Bite Relief;21/01/2014;46;6;0.54;false
+Telephone;Sports Store;Irons;Hailstorm Steel Irons;03/07/2013;113;433.34;0.49000785;false
+Telephone;Sports Store;Irons;Hailstorm Titanium Irons;11/05/2013;84;872.82;0.43751289;false
+Telephone;Sports Store;Irons;Lady Hailstorm Titanium Irons;10/05/2014;68;835.68;0.44955007;false
+Telephone;Sports Store;Woods;Hailstorm Steel Woods Set;10/12/2012;97;654.24;0.47786745;false
+Telephone;Sports Store;Putters;Blue Steel Putter;15/02/2013;285;83.43;0.50617284;true
+Telephone;Sports Store;Putters;Blue Steel Max Putter;08/10/2012;239;169.79;0.45933212;false
+Telephone;Sports Store;Golf Accessories;Course Pro Golf and Tee Set;26/06/2013;1060;9.414566038;0.70258852;false
+Telephone;Sports Store;Golf Accessories;Course Pro Umbrella;09/02/2013;1164;11.31726804;0.46983672;false
+Telephone;Sports Store;Golf Accessories;Course Pro Golf Bag;18/09/2014;142;200.3962676;0.602288;true
+Mail;Department Store;Cooking Gear;TrailChef Canteen;26/09/2014;1350;8.77;0.49600912;true
+Mail;Department Store;Cooking Gear;TrailChef Kettle;20/01/2013;5061;7.93;0.49684741;false
+Mail;Department Store;Tents;Star Dome;12/12/2013;164;611.84;0.35277197;false
+Mail;Department Store;Tents;Star Peg;21/07/2013;2356;1.96;0.48979592;false
+Mail;Department Store;Sleeping Bags;Hibernator;30/12/2013;491;138.02;0.3769019;false
+Mail;Department Store;Packs;Canyon Mule Weekender Backpack;09/03/2013;309;268.74;0.37984669;false
+Mail;Department Store;Packs;Canyon Mule Journey Backpack;04/06/2014;279;348.61;0.38805542;false
+Mail;Department Store;Packs;Canyon Mule Cooler;21/10/2013;809;32.58;0.50890117;false
+Mail;Department Store;Lanterns;Firefly Mapreader;27/03/2013;802;15.8;0.52531646;false
+Mail;Department Store;Lanterns;Firefly 2;19/01/2013;480;26.82;0.37844892;false
+Mail;Department Store;Lanterns;Firefly 4;10/01/2013;292;28.85;0.37608319;false
+Mail;Department Store;Watches;Mountain Man Analog;02/07/2014;128;47.41;0.36722211;false
+Mail;Department Store;Watches;Mountain Man Deluxe;10/07/2014;101;76.66;0.49126011;true
+Mail;Department Store;Navigation;Glacier GPS;22/10/2012;357;109.73;0.28415201;false
+Mail;Department Store;Insect Repellents;BugShield Lotion Lite;08/05/2013;509;6.86;0.72594752;false
+Mail;Department Store;Sunscreen;Sun Shield;13/08/2013;1264;5.82;0.5257732;false
+Mail;Department Store;First Aid;Aloe Relief;09/06/2014;136;5.23;0.63288719;true
+Mail;Department Store;Irons;Hailstorm Steel Irons;07/07/2013;237;368.4498734;0.40018978;true
+Mail;Department Store;Irons;Lady Hailstorm Steel Irons;24/09/2013;66;500.79;0.44535634;false
+Mail;Department Store;Woods;Hailstorm Steel Woods Set;27/06/2013;188;685.1157447;0.50139812;false
+Mail;Department Store;Woods;Lady Hailstorm Steel Woods Set;13/07/2013;54;856.17;0.44845066;false
+Mail;Department Store;Putters;Course Pro Putter;14/04/2013;1497;72.25;0.51695502;false
+Mail;Department Store;Putters;Blue Steel Putter;28/12/2013;298;85.91147651;0.5204366;false
+Mail;Department Store;Golf Accessories;Course Pro Golf and Tee Set;13/04/2013;960;10.32;0.72868217;false
+Mail;Department Store;Golf Accessories;Course Pro Umbrella;30/06/2014;1011;12.3;0.51219512;true
+Mail;Department Store;Golf Accessories;Course Pro Golf Bag;25/05/2013;99;206.14;0.61336955;false
+Mail;Department Store;Golf Accessories;Course Pro Gloves;20/06/2014;561;10.39;0.7680462;false
+Mail;Outdoors Shop;Cooking Gear;TrailChef Water Bag;25/01/2013;9076;3.95;0.46582278;false
+Mail;Outdoors Shop;Cooking Gear;TrailChef Deluxe Cook Set;08/11/2013;536;121.94;0.34754797;false
+Mail;Outdoors Shop;Cooking Gear;TrailChef Double Flame;08/11/2013;277;142.66;0.4742745;false
+Mail;Outdoors Shop;Cooking Gear;TrailChef Utensils;04/04/2014;330;18.9;0.47089947;false
+Mail;Outdoors Shop;Tents;Star Lite;20/12/2012;453;347.92;0.28144401;false
+Mail;Outdoors Shop;Sleeping Bags;Hibernator Extreme;15/06/2014;332;249.23;0.39814629;false
+Mail;Outdoors Shop;Sleeping Bags;Hibernator Pad;26/08/2013;368;39.43;0.51382196;false
+Mail;Outdoors Shop;Packs;Canyon Mule Extreme Backpack;21/04/2014;133;432.89;0.4481739;false
+Mail;Outdoors Shop;Rope;Husky Rope 50;23/09/2014;147;150.4;0.32905585;false
+Mail;Outdoors Shop;Rope;Husky Rope 60;28/09/2014;166;178.6;0.29165733;true
+Mail;Outdoors Shop;Rope;Husky Rope 100;28/03/2014;251;325.86;0.30126435;false
+Mail;Outdoors Shop;Rope;Husky Rope 200;18/02/2013;139;540.48;0.31477575;false
+Mail;Outdoors Shop;Climbing Accessories;Granite Carabiner;07/02/2014;4252;3.76;0.4787234;false
+Mail;Outdoors Shop;Climbing Accessories;Granite Belay;11/08/2013;313;65.8;0.47613982;true
+Mail;Outdoors Shop;Climbing Accessories;Granite Pulley;13/01/2014;451;36.86;0.50217037;true
+Mail;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;13/10/2013;232;38.79;0.42768755;false
+Mail;Outdoors Shop;Climbing Accessories;Firefly Charger;28/06/2013;391;51.4;0.56498054;false
+Mail;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;11/04/2013;1482;7.76;0.59407216;false
+Mail;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;28/04/2013;236;17.64;0.51643991;false
+Mail;Outdoors Shop;Tools;Granite Grip;01/07/2013;1083;19.4;0.49020619;false
+Mail;Outdoors Shop;Tools;Granite Axe;01/11/2013;2506;37.87198723;0.48457946;false
+Mail;Outdoors Shop;Tools;Granite Extreme;09/06/2013;1908;75.2;0.38138298;true
+Mail;Outdoors Shop;Eyewear;Polar Sun;15/06/2013;92;59.01478261;0.55689068;false
+Mail;Outdoors Shop;Eyewear;Polar Sports;15/01/2014;75;115.34;0.48950928;false
+Mail;Outdoors Shop;Eyewear;Polar Extreme;13/08/2014;14;142.37;0.4907635;false
+Mail;Outdoors Shop;Knives;Edge Extreme;25/12/2013;569;112.51;0.28895209;false
+Mail;Outdoors Shop;Binoculars;Seeker Extreme;21/11/2012;84;171.71;0.45186652;false
+Mail;Outdoors Shop;Navigation;Glacier GPS;16/11/2013;373;109.73;0.28415201;false
+Mail;Outdoors Shop;Navigation;Glacier GPS Extreme;31/03/2013;248;338.02;0.4779303;false
+Mail;Outdoors Shop;Insect Repellents;BugShield Lotion Lite;27/03/2014;504;6.86;0.72594752;false
+Mail;Outdoors Shop;Insect Repellents;BugShield Extreme;27/07/2014;7470;6.58;0.63221884;false
+Mail;Outdoors Shop;Sunscreen;Sun Shield;18/12/2012;1225;5.82;0.5257732;false
+Mail;Outdoors Shop;First Aid;Compact Relief Kit;16/12/2012;176;22.54;0.60070985;false
+Mail;Outdoors Shop;First Aid;Aloe Relief;28/08/2013;133;5.23;0.63288719;true
+Mail;Outdoors Shop;First Aid;Insect Bite Relief;10/08/2014;126;6;0.54;false
+Mail;Eyewear Store;Watches;Mountain Man Analog;19/09/2013;115;47.9;0.3736952;false
+Mail;Eyewear Store;Eyewear;Polar Sun;28/11/2012;111;61.39315315;0.57405674;false
+Mail;Eyewear Store;Eyewear;Polar Ice;02/05/2014;31;108.5806452;0.5423678;true
+Mail;Eyewear Store;Eyewear;Polar Sports;06/03/2014;45;115.34;0.48950928;true
+Mail;Eyewear Store;Eyewear;Polar Wave;18/02/2014;13;95.62;0.56996444;false
+Mail;Eyewear Store;Binoculars;Seeker 35;01/10/2014;130;98.97;0.28069112;false
+Web;Golf Shop;Watches;Venue;28/11/2012;574;72.46689895;0.4192105;false
+Web;Golf Shop;Watches;Infinity;16/01/2014;126;225.8730159;0.45703514;false
+Web;Golf Shop;Watches;Lux;01/12/2012;50;167.2;0.47703349;false
+Web;Golf Shop;Watches;Sam;11/01/2013;168;44.9;0.38841871;false
+Web;Golf Shop;Watches;TX;05/04/2014;513;192.0311891;0.45880908;true
+Web;Golf Shop;Watches;Legend;23/01/2013;166;257.9409639;0.44495939;false
+Web;Golf Shop;Watches;Kodiak;26/07/2014;189;126.4074074;0.46665606;false
+Web;Golf Shop;Eyewear;Bella;23/01/2014;222;67.5;0.4557037;false
+Web;Golf Shop;Eyewear;Capri;06/11/2013;682;38.3;0.34139568;false
+Web;Golf Shop;Eyewear;Cat Eye;14/02/2013;3048;31.38134843;0.32840988;false
+Web;Golf Shop;Eyewear;Dante;02/10/2014;1451;42.89617505;0.35579135;false
+Web;Golf Shop;Eyewear;Fairway;16/03/2013;1451;20.15;0.40378861;false
+Web;Golf Shop;Eyewear;Inferno;04/08/2014;700;63.68064286;0.4253174;false
+Web;Golf Shop;Eyewear;Maximus;24/04/2014;570;80.55263158;0.49786715;true
+Web;Golf Shop;Eyewear;Trendi;22/12/2013;429;50.3;0.39525921;false
+Web;Golf Shop;Eyewear;Zone;10/10/2012;2302;30.61020851;0.32717588;false
+Web;Golf Shop;Eyewear;Hawk Eye;01/12/2012;728;40.5;0.40053453;false
+Web;Golf Shop;Knives;Max Gizmo;29/03/2014;321;38.2;0.53979058;true
+Web;Golf Shop;Knives;Pocket Gizmo;16/12/2012;1378;12.2;0.59992148;true
+Web;Golf Shop;Binoculars;Opera Vision;02/10/2013;137;110;0.541;false
+Web;Golf Shop;Binoculars;Ranger Vision;15/11/2012;197;160;0.46574841;false
+Web;Golf Shop;Navigation;Trail Master;13/04/2014;76;365;0.34866943;false
+Web;Golf Shop;Irons;Hailstorm Steel Irons;13/10/2012;79;433.34;0.49000785;false
+Web;Golf Shop;Irons;Hailstorm Titanium Irons;15/10/2013;227;872.82;0.43751289;false
+Web;Golf Shop;Irons;Lady Hailstorm Steel Irons;23/03/2014;129;500.79;0.44535634;false
+Web;Golf Shop;Irons;Lady Hailstorm Titanium Irons;27/08/2013;273;835.68;0.44955007;true
+Web;Golf Shop;Woods;Hailstorm Titanium Woods Set;19/07/2014;263;1194.82;0.42250716;false
+Web;Golf Shop;Woods;Hailstorm Steel Woods Set;22/03/2014;68;654.24;0.47786745;false
+Web;Golf Shop;Woods;Lady Hailstorm Titanium Woods Set;27/02/2013;103;1278.14;0.48311609;false
+Web;Golf Shop;Woods;Lady Hailstorm Steel Woods Set;25/03/2014;248;856.17;0.44845066;false
+Web;Golf Shop;Putters;Course Pro Putter;25/01/2014;859;72.25;0.51695502;false
+Web;Golf Shop;Putters;Blue Steel Max Putter;25/08/2014;835;169.79;0.45933212;false
+Web;Golf Shop;Golf Accessories;Course Pro Golf and Tee Set;22/04/2014;1811;10.32;0.72868217;false
+Web;Golf Shop;Golf Accessories;Course Pro Umbrella;17/08/2013;1945;12.36309512;0.51468464;false
+Web;Golf Shop;Golf Accessories;Course Pro Golf Bag;03/01/2013;52;206.14;0.61336955;false
+Web;Golf Shop;Golf Accessories;Course Pro Gloves;23/04/2014;6825;6.607734799;0.63527592;false
+Web;Department Store;Cooking Gear;TrailChef Cup;17/11/2013;3018;3.529377071;0.7591643;false
+Web;Department Store;Cooking Gear;TrailChef Cook Set;07/10/2012;854;52.73;0.33681016;true
+Web;Department Store;Cooking Gear;TrailChef Single Flame;23/05/2014;712;62.76;0.26099426;false
+Web;Department Store;Cooking Gear;TrailChef Kettle;11/04/2014;4540;7.93;0.49684741;false
+Web;Department Store;Tents;Star Gazer 6;25/09/2013;100;781.97;0.3733775;false
+Web;Department Store;Sleeping Bags;Hibernator Pad;05/07/2013;406;39.43;0.51382196;true
+Web;Department Store;Sleeping Bags;Hibernator Pillow;12/02/2014;400;17.3;0.52947977;true
+Web;Department Store;Sleeping Bags;Hibernator Camp Cot;02/05/2014;315;98.21;0.33560737;false
+Web;Department Store;Packs;Canyon Mule Climber Backpack;31/12/2013;88;76.86;0.31693989;false
+Web;Department Store;Packs;Canyon Mule Weekender Backpack;21/02/2014;315;268.74;0.37984669;false
+Web;Department Store;Packs;Canyon Mule Journey Backpack;19/10/2013;258;348.61;0.38805542;false
+Web;Department Store;Lanterns;Firefly Lite;31/05/2013;621;14.33;0.52896022;false
+Web;Department Store;Lanterns;Firefly 2;06/10/2013;1096;26.55;0.37212806;false
+Web;Department Store;Lanterns;Firefly Multi-light;13/05/2013;284;26.01;0.31641676;true
+Web;Department Store;Lanterns;EverGlow Double;07/07/2013;50;51.11;0.43748777;false
+Web;Department Store;Lanterns;EverGlow Kerosene;22/11/2012;313;30.92;0.35316947;false
+Web;Department Store;Lanterns;EverGlow Butane;16/04/2014;116;63.67;0.36186587;false
+Web;Department Store;Watches;Mountain Man Analog;01/10/2013;154;47.41;0.36722211;false
+Web;Department Store;Watches;Mountain Man Digital;21/03/2014;197;35.3435533;0.43412594;false
+Web;Department Store;Watches;Mountain Man Deluxe;15/09/2013;119;76.66;0.49126011;false
+Web;Department Store;Watches;Venue;16/05/2013;1618;71.92088999;0.4195473;false
+Web;Department Store;Watches;Infinity;20/11/2013;416;234.1346154;0.43306817;false
+Web;Department Store;Watches;Lux;27/10/2013;47;167.2;0.47882775;false
+Web;Department Store;Watches;Sam;23/11/2012;289;44.9;0.38841871;false
+Web;Department Store;Watches;TX;08/11/2013;1323;187.3983371;0.45168073;false
+Web;Department Store;Watches;Legend;14/11/2013;852;248.9739437;0.44570976;true
+Web;Department Store;Watches;Kodiak;22/09/2014;677;125.1714919;0.46201595;false
+Web;Department Store;Eyewear;Polar Sun;14/06/2014;129;60.84511628;0.57022023;false
+Web;Department Store;Eyewear;Polar Ice;28/10/2012;60;104.665;0.52524722;false
+Web;Department Store;Eyewear;Bella;24/04/2013;505;67.5;0.45412893;true
+Web;Department Store;Eyewear;Capri;01/01/2013;2153;38.3;0.34148271;true
+Web;Department Store;Eyewear;Cat Eye;14/07/2014;3827;27.65539587;0.31828724;false
+Web;Department Store;Eyewear;Dante;12/06/2014;4478;43.21435909;0.35317732;false
+Web;Department Store;Eyewear;Fairway;23/11/2012;2130;20.15;0.40298839;false
+Web;Department Store;Eyewear;Inferno;21/06/2014;1294;64.32078825;0.41009154;false
+Web;Department Store;Eyewear;Maximus;20/02/2013;694;80.77089337;0.49865132;false
+Web;Department Store;Eyewear;Trendi;27/01/2014;1785;50.3;0.39561822;false
+Web;Department Store;Eyewear;Zone;29/10/2013;5420;30.89677122;0.32884101;false
+Web;Department Store;Eyewear;Hawk Eye;05/12/2013;739;40.5;0.42281628;false
+Web;Department Store;Knives;Double Edge;26/09/2014;737;16.14;0.29182156;true
+Web;Department Store;Knives;Max Gizmo;25/06/2014;554;38.2;0.53979058;false
+Web;Department Store;Knives;Pocket Gizmo;03/01/2014;2790;12.2;0.61187291;false
+Web;Department Store;Binoculars;Opera Vision;07/03/2013;133;110;0.544;false
+Web;Department Store;Binoculars;Ranger Vision;24/11/2013;219;160;0.43913784;true
+Web;Department Store;Navigation;Glacier Basic;17/08/2013;894;31.74;0.36988028;true
+Web;Department Store;Navigation;Glacier Deluxe;18/10/2012;134;90.65;0.37970215;false
+Web;Department Store;Navigation;Trail Master;22/04/2013;108;365;0.34731405;false
+Web;Department Store;Navigation;Trail Scout;30/04/2013;188;238;0.35573105;false
+Web;Department Store;Navigation;Trail Star;18/04/2014;459;154;0.42460317;false
+Web;Department Store;Insect Repellents;BugShield Lotion Lite;27/11/2012;971;6.927044284;0.72859997;false
+Web;Department Store;Insect Repellents;BugShield Lotion;20/06/2014;1944;6.86;0.66034985;false
+Web;Department Store;Sunscreen;Sun Blocker;24/11/2012;937;4.9;0.60204082;true
+Web;Department Store;Sunscreen;Sun Shelter 15;28/02/2013;1566;4.8;0.62708333;false
+Web;Department Store;Sunscreen;Sun Shelter 30;30/06/2014;3068;4.7;0.60638298;false
+Web;Department Store;First Aid;Deluxe Family Relief Kit;07/10/2013;342;33.95;0.58645066;false
+Web;Department Store;First Aid;Calamine Relief;24/09/2013;120;6;0.52833333;false
+Web;Department Store;First Aid;Aloe Relief;28/07/2013;149;5.23;0.63288719;false
+Web;Department Store;Irons;Hailstorm Steel Irons;24/03/2013;83;370.6884337;0.40381199;false
+Web;Department Store;Irons;Hailstorm Titanium Irons;01/05/2013;149;872.82;0.43751289;false
+Web;Department Store;Irons;Lady Hailstorm Steel Irons;30/06/2013;130;500.79;0.44535634;false
+Web;Department Store;Irons;Lady Hailstorm Titanium Irons;16/01/2014;135;835.68;0.44955007;false
+Web;Department Store;Woods;Hailstorm Titanium Woods Set;27/06/2013;182;1194.82;0.42250716;false
+Web;Department Store;Woods;Hailstorm Steel Woods Set;08/11/2012;83;677.8872289;0.49608138;false
+Web;Department Store;Woods;Lady Hailstorm Titanium Woods Set;20/05/2014;52;1278.14;0.48311609;true
+Web;Department Store;Woods;Lady Hailstorm Steel Woods Set;08/12/2013;126;856.17;0.44845066;false
+Web;Department Store;Putters;Course Pro Putter;12/12/2012;783;72.25;0.51695502;false
+Web;Department Store;Putters;Blue Steel Putter;03/11/2012;305;84.24980328;0.51097809;false
+Web;Department Store;Putters;Blue Steel Max Putter;15/06/2013;525;169.79;0.45933212;true
+Web;Department Store;Golf Accessories;Course Pro Golf and Tee Set;23/09/2014;880;10.32;0.72868217;true
+Web;Department Store;Golf Accessories;Course Pro Umbrella;16/04/2013;977;12.43;0.51729686;false
+Web;Department Store;Golf Accessories;Course Pro Gloves;09/07/2013;3352;6.606995823;0.63523513;false
+Web;Direct Marketing;Cooking Gear;TrailChef Kitchen Kit;08/10/2013;905;23.09;0.31009095;false
+Web;Direct Marketing;Cooking Gear;TrailChef Deluxe Cook Set;30/07/2014;427;121.94;0.34754797;false
+Web;Direct Marketing;Cooking Gear;TrailChef Single Flame;07/08/2013;712;62.76;0.26099426;false
+Web;Direct Marketing;Cooking Gear;TrailChef Utensils;20/11/2013;1205;18.52;0.4600432;false
+Web;Direct Marketing;Sleeping Bags;Hibernator Self - Inflating Mat;24/02/2014;396;119.63;0.5440107;true
+Web;Direct Marketing;Sleeping Bags;Hibernator Pad;09/02/2013;398;39.43;0.51382196;false
+Web;Direct Marketing;Packs;Canyon Mule Weekender Backpack;30/01/2013;269;268.74;0.37984669;false
+Web;Direct Marketing;Lanterns;Firefly Mapreader;28/08/2014;718;15.8;0.52531646;false
+Web;Direct Marketing;Lanterns;Firefly Multi-light;09/06/2013;498;26.01;0.31641676;false
+Web;Direct Marketing;Insect Repellents;BugShield Spray;29/12/2012;1806;5.89;0.6893039;false
+Web;Direct Marketing;Sunscreen;Sun Shield;09/03/2013;1164;5.82;0.5257732;false
+Web;Warehouse Store;Lanterns;EverGlow Single;28/05/2013;573;33.5;0.46149254;false
+Web;Warehouse Store;Eyewear;Maximus;20/03/2013;1803;50;0.1924;false
+Web;Warehouse Store;Insect Repellents;BugShield Natural;12/05/2014;1399;5.82;0.68041237;false
+Web;Warehouse Store;Sunscreen;Sun Shelter Stick;05/01/2013;1172;4.85;0.59587629;false
+Web;Equipment Rental Store;Cooking Gear;TrailChef Kettle;07/03/2014;4938;7.93;0.49684741;false
+Web;Equipment Rental Store;Tents;Star Gazer 6;15/12/2013;22;790.29;0.37997444;true
+Web;Equipment Rental Store;Sleeping Bags;Hibernator Lite;07/03/2013;638;84.68;0.29145017;false
+Web;Equipment Rental Store;Sleeping Bags;Hibernator;25/08/2014;253;138.02;0.3769019;false
+Web;Equipment Rental Store;Sleeping Bags;Hibernator Pad;12/04/2013;1559;39.27115459;0.51185545;false
+Web;Equipment Rental Store;Sleeping Bags;Hibernator Pillow;15/06/2014;324;12.36;0.43365696;true
+Web;Equipment Rental Store;Packs;Canyon Mule Climber Backpack;07/12/2013;2135;72.35148478;0.27437564;true
+Web;Equipment Rental Store;Packs;Canyon Mule Journey Backpack;31/08/2013;137;348.61;0.38805542;false
+Web;Equipment Rental Store;Packs;Canyon Mule Cooler;16/01/2014;393;32.92;0.51397327;false
+Web;Equipment Rental Store;Lanterns;Firefly 2;13/08/2013;242;26.82;0.37844892;false
+Web;Equipment Rental Store;Lanterns;Firefly 4;10/10/2013;147;28.85;0.37608319;false
+Web;Equipment Rental Store;Lanterns;EverGlow Single;18/07/2013;263;33.85;0.46706056;false
+Web;Equipment Rental Store;Lanterns;EverGlow Double;01/09/2014;216;51.22074074;0.43870394;false
+Web;Equipment Rental Store;Lanterns;EverGlow Butane;04/12/2012;54;65.02;0.37511535;false
+Web;Equipment Rental Store;Lanterns;EverGlow Lamp;08/03/2013;1335;27.06231461;0.33597698;false
+Web;Equipment Rental Store;Lanterns;Flicker Lantern;13/12/2012;83;34.39;0.5457982;true
+Web;Equipment Rental Store;Rope;Husky Rope 50;03/09/2013;496;150.4;0.32905585;false
+Web;Equipment Rental Store;Watches;Mountain Man Analog;02/10/2013;69;47.9;0.3736952;false
+Web;Equipment Rental Store;Watches;Mountain Man Digital;03/01/2014;47;29.13;0.31342259;false
+Web;Equipment Rental Store;Watches;Mountain Man Deluxe;15/07/2013;54;78.29;0.50185209;true
+Web;Equipment Rental Store;Insect Repellents;BugShield Natural;23/06/2013;5022;5.769988053;0.67764231;true
+Web;Equipment Rental Store;First Aid;Insect Bite Relief;20/04/2014;171;6;0.54;false
+Web;Equipment Rental Store;Irons;Hailstorm Steel Irons;23/02/2013;48;322.7;0.31515339;false
+Web;Equipment Rental Store;Woods;Hailstorm Steel Woods Set;26/10/2013;48;696;0.5091954;false
+Web;Equipment Rental Store;Putters;Course Pro Putter;27/11/2013;354;72.25;0.51695502;false
+Web;Equipment Rental Store;Putters;Blue Steel Putter;13/05/2014;48;88.75;0.53577465;false
+Web;Equipment Rental Store;Golf Accessories;Course Pro Golf Bag;10/10/2012;98;206.14;0.61336955;false
+Web;Outdoors Shop;Cooking Gear;TrailChef Water Bag;11/03/2014;13956;4.205783892;0.47787138;true
+Web;Outdoors Shop;Cooking Gear;TrailChef Cup;17/09/2013;2098;3.563231649;0.7614525;false
+Web;Outdoors Shop;Cooking Gear;TrailChef Deluxe Cook Set;12/12/2013;498;121.94;0.34754797;false
+Web;Outdoors Shop;Cooking Gear;TrailChef Single Flame;01/10/2013;338;62.76;0.26099426;false
+Web;Outdoors Shop;Cooking Gear;TrailChef Double Flame;21/04/2014;257;142.66;0.4742745;false
+Web;Outdoors Shop;Cooking Gear;TrailChef Kettle;24/04/2014;7315;11.17877239;0.5719202;false
+Web;Outdoors Shop;Tents;Star Dome;26/03/2013;64;611.84;0.35277197;false
+Web;Outdoors Shop;Tents;Star Gazer 2;20/10/2012;570;547.47;0.28293788;false
+Web;Outdoors Shop;Tents;Star Peg;18/10/2012;5807;1.967184433;0.49165926;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator Lite;19/11/2012;1316;84.68;0.29145017;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator;14/09/2014;483;138.02;0.3769019;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator Extreme;22/05/2013;678;249.23;0.39814629;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator Self - Inflating Mat;02/02/2014;212;119.63;0.5440107;true
+Web;Outdoors Shop;Sleeping Bags;Hibernator Pad;11/12/2013;189;39.43;0.51382196;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator Pillow;12/12/2013;322;12.36;0.43365696;false
+Web;Outdoors Shop;Sleeping Bags;Hibernator Camp Cot;23/05/2014;705;98.21;0.33560737;false
+Web;Outdoors Shop;Packs;Canyon Mule Climber Backpack;31/12/2013;817;72.25;0.2733564;true
+Web;Outdoors Shop;Packs;Canyon Mule Extreme Backpack;02/07/2014;253;432.89;0.4481739;true
+Web;Outdoors Shop;Packs;Canyon Mule Cooler;24/04/2014;769;32.58;0.50890117;false
+Web;Outdoors Shop;Packs;Canyon Mule Carryall;05/10/2014;240;69.09;0.40396584;false
+Web;Outdoors Shop;Lanterns;Firefly Lite;24/05/2014;2702;14.30408216;0.52810674;false
+Web;Outdoors Shop;Lanterns;Firefly Extreme;12/11/2012;342;49.95695906;0.43711546;false
+Web;Outdoors Shop;Lanterns;EverGlow Single;07/05/2014;267;33.85;0.46706056;false
+Web;Outdoors Shop;Lanterns;EverGlow Butane;16/09/2013;301;63.91667774;0.36432866;false
+Web;Outdoors Shop;Lanterns;EverGlow Lamp;08/02/2014;439;27.25;0.34055046;true
+Web;Outdoors Shop;Rope;Husky Rope 50;12/10/2013;420;150.4;0.32905585;false
+Web;Outdoors Shop;Rope;Husky Rope 60;04/06/2014;355;178.6;0.29165733;false
+Web;Outdoors Shop;Rope;Husky Rope 100;28/04/2014;296;325.86;0.30126435;false
+Web;Outdoors Shop;Rope;Husky Rope 200;18/12/2012;101;542.1879208;0.31693425;false
+Web;Outdoors Shop;Safety;Granite Climbing Helmet;05/10/2013;1182;69.56;0.24468085;false
+Web;Outdoors Shop;Safety;Husky Harness;13/06/2014;415;61.1;0.28363339;false
+Web;Outdoors Shop;Safety;Husky Harness Extreme;04/07/2013;1333;103.4;0.47843327;false
+Web;Outdoors Shop;Safety;Granite Signal Mirror;14/04/2014;445;32.61883146;0.51837637;false
+Web;Outdoors Shop;Climbing Accessories;Granite Carabiner;21/01/2013;11735;3.785510013;0.48223621;false
+Web;Outdoors Shop;Climbing Accessories;Granite Belay;26/03/2013;921;65.8;0.47613982;false
+Web;Outdoors Shop;Climbing Accessories;Granite Pulley;29/08/2013;1986;36.64512588;0.49925128;false
+Web;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;08/01/2014;706;38.79;0.42768755;true
+Web;Outdoors Shop;Climbing Accessories;Firefly Charger;03/02/2013;1194;51.4;0.56498054;false
+Web;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;20/12/2012;8344;7.73506232;0.59276346;false
+Web;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;05/05/2013;1091;17.64;0.51643991;false
+Web;Outdoors Shop;Tools;Granite Ice;15/11/2012;1162;75.2;0.48178191;true
+Web;Outdoors Shop;Tools;Granite Hammer;14/05/2014;1248;75.18;0.2434158;true
+Web;Outdoors Shop;Tools;Granite Shovel;01/08/2014;843;58.3102847;0.33836715;false
+Web;Outdoors Shop;Tools;Granite Grip;12/08/2013;2208;19.50253623;0.49288647;false
+Web;Outdoors Shop;Tools;Granite Axe;16/03/2014;2882;38.45121443;0.49234373;false
+Web;Outdoors Shop;Tools;Granite Extreme;13/03/2013;1653;75.2;0.38138298;false
+Web;Outdoors Shop;Watches;Mountain Man Digital;21/06/2013;101;40.36;0.50445986;false
+Web;Outdoors Shop;Watches;Mountain Man Deluxe;01/07/2013;175;77.21885714;0.49494202;false
+Web;Outdoors Shop;Watches;Mountain Man Combination;14/06/2014;224;93.543125;0.51893846;false
+Web;Outdoors Shop;Watches;Mountain Man Extreme;08/01/2014;73;281.5528767;0.58732441;false
+Web;Outdoors Shop;Watches;Venue;11/04/2014;3315;72.64524887;0.41920513;true
+Web;Outdoors Shop;Watches;Infinity;20/03/2014;816;227.1323529;0.45961455;false
+Web;Outdoors Shop;Watches;Lux;10/10/2012;650;168.3821538;0.47708637;false
+Web;Outdoors Shop;Watches;Sam;02/09/2014;737;44.9;0.38841871;false
+Web;Outdoors Shop;Watches;TX;05/11/2012;2831;190.2168845;0.45502845;true
+Web;Outdoors Shop;Watches;Legend;13/12/2012;1310;253.8480916;0.44565278;true
+Web;Outdoors Shop;Watches;Kodiak;09/08/2013;1276;122.5425549;0.45259449;false
+Web;Outdoors Shop;Eyewear;Polar Sun;24/03/2013;423;60.88099291;0.5704735;false
+Web;Outdoors Shop;Eyewear;Polar Ice;27/09/2014;24;110;0.54827273;false
+Web;Outdoors Shop;Eyewear;Polar Extreme;13/02/2014;21;144.6290476;0.49871757;false
+Web;Outdoors Shop;Eyewear;Bella;21/04/2014;1061;67.5;0.45414473;false
+Web;Outdoors Shop;Eyewear;Capri;07/08/2014;4370;38.3;0.34128362;false
+Web;Outdoors Shop;Eyewear;Cat Eye;31/08/2014;12901;30.3947601;0.32612217;true
+Web;Outdoors Shop;Eyewear;Dante;07/05/2014;5401;43.20211998;0.35383095;false
+Web;Outdoors Shop;Eyewear;Fairway;18/07/2014;6495;20.15;0.40346432;false
+Web;Outdoors Shop;Eyewear;Inferno;29/09/2014;2758;64.3549855;0.40918255;false
+Web;Outdoors Shop;Eyewear;Maximus;09/10/2012;3108;81.01190476;0.50048124;false
+Web;Outdoors Shop;Eyewear;Trendi;27/01/2014;3719;50.3;0.39551227;false
+Web;Outdoors Shop;Eyewear;Zone;24/11/2012;16185;30.66255792;0.32625456;false
+Web;Outdoors Shop;Eyewear;Hawk Eye;11/06/2014;1192;40.5;0.42140339;false
+Web;Outdoors Shop;Knives;Double Edge;06/10/2014;350;16.31;0.29920294;false
+Web;Outdoors Shop;Knives;Edge Extreme;03/05/2014;814;112.51;0.28895209;false
+Web;Outdoors Shop;Knives;Bear Survival Edge;08/01/2013;168;86.75;0.48126801;false
+Web;Outdoors Shop;Knives;Max Gizmo;29/08/2013;1679;38.2;0.53876637;false
+Web;Outdoors Shop;Knives;Pocket Gizmo;20/02/2013;4427;12.2;0.60737149;true
+Web;Outdoors Shop;Binoculars;Seeker 50;28/05/2014;61;126.06;0.26558782;false
+Web;Outdoors Shop;Binoculars;Seeker Extreme;15/12/2012;40;171.71;0.45186652;false
+Web;Outdoors Shop;Binoculars;Seeker Mini;18/11/2013;182;80.71956044;0.50445716;false
+Web;Outdoors Shop;Binoculars;Opera Vision;02/08/2014;558;110;0.54239589;true
+Web;Outdoors Shop;Binoculars;Ranger Vision;13/04/2014;737;160;0.3927316;true
+Web;Outdoors Shop;Navigation;Glacier GPS;22/07/2014;164;109.73;0.28415201;false
+Web;Outdoors Shop;Navigation;Glacier GPS Extreme;13/11/2012;171;338.02;0.4779303;false
+Web;Outdoors Shop;Navigation;Trail Master;22/05/2013;147;365;0.34829317;false
+Web;Outdoors Shop;Navigation;Trail Scout;29/09/2014;247;238;0.35527575;false
+Web;Outdoors Shop;Navigation;Trail Star;28/01/2014;427;154;0.42420116;false
+Web;Outdoors Shop;Insect Repellents;BugShield Lotion Lite;20/08/2013;203;7;0.73142857;false
+Web;Outdoors Shop;Insect Repellents;BugShield Extreme;13/08/2014;10262;6.624502046;0.63468952;true
+Web;Outdoors Shop;Sunscreen;Sun Blocker;29/10/2012;436;5;0.61;false
+Web;Outdoors Shop;Sunscreen;Sun Shelter Stick;20/12/2013;1781;4.865805727;0.59718901;false
+Web;Outdoors Shop;Sunscreen;Sun Shelter 30;09/04/2014;4262;4.750750821;0.61058787;false
+Web;Outdoors Shop;Sunscreen;Sun Shield;16/01/2014;1897;5.840305746;0.527422;false
+Web;Outdoors Shop;First Aid;Compact Relief Kit;02/08/2014;256;22.698125;0.60349148;false
+Web;Outdoors Shop;First Aid;Deluxe Family Relief Kit;21/12/2012;81;34.3;0.59067055;false
+Web;Outdoors Shop;First Aid;Calamine Relief;29/11/2012;57;6;0.52833333;false
+Web;Outdoors Shop;First Aid;Aloe Relief;22/01/2014;193;5.23;0.63288719;false
+Web;Outdoors Shop;First Aid;Insect Bite Relief;14/03/2013;96;6;0.54;false
+Web;Eyewear Store;Watches;Mountain Man Analog;26/03/2013;476;47.65191176;0.37043449;false
+Web;Eyewear Store;Watches;Venue;03/12/2013;677;71.54209749;0.41921336;false
+Web;Eyewear Store;Watches;Infinity;18/12/2012;454;229.4713656;0.44648128;true
+Web;Eyewear Store;Watches;Lux;20/11/2013;62;170.6064516;0.47517395;false
+Web;Eyewear Store;Watches;Sam;22/01/2013;99;44.9;0.38841871;false
+Web;Eyewear Store;Watches;TX;12/04/2014;1460;190.6547945;0.45441032;false
+Web;Eyewear Store;Watches;Legend;02/07/2014;606;253.0283828;0.44346986;true
+Web;Eyewear Store;Watches;Kodiak;31/07/2013;221;120.3;0.44296348;true
+Web;Eyewear Store;Eyewear;Polar Sun;29/06/2013;568;60.5159507;0.56788252;false
+Web;Eyewear Store;Eyewear;Polar Ice;10/07/2014;164;104.4060976;0.52406994;false
+Web;Eyewear Store;Eyewear;Polar Sports;07/03/2014;82;115.34;0.48950928;false
+Web;Eyewear Store;Eyewear;Polar Wave;16/10/2013;53;94.64698113;0.56554346;false
+Web;Eyewear Store;Eyewear;Polar Extreme;26/12/2013;31;146.7670968;0.50602007;false
+Web;Eyewear Store;Eyewear;Bella;18/09/2013;46;67.5;0.45348148;false
+Web;Eyewear Store;Eyewear;Capri;19/05/2014;2741;38.3;0.34115458;false
+Web;Eyewear Store;Eyewear;Cat Eye;24/11/2013;4845;28.95368421;0.32200903;false
+Web;Eyewear Store;Eyewear;Dante;21/09/2014;2906;42.96135582;0.35476216;false
+Web;Eyewear Store;Eyewear;Fairway;23/09/2014;2345;20.15;0.40391583;false
+Web;Eyewear Store;Eyewear;Inferno;11/04/2013;1339;63.79779686;0.42261264;false
+Web;Eyewear Store;Eyewear;Maximus;13/05/2014;807;82.63320942;0.50969064;true
+Web;Eyewear Store;Eyewear;Trendi;28/03/2013;2384;50.3;0.39561707;false
+Web;Eyewear Store;Eyewear;Zone;02/03/2013;4587;31.05349902;0.33024717;false
+Web;Eyewear Store;Eyewear;Hawk Eye;15/08/2013;614;40.5;0.40013914;false
+Web;Eyewear Store;Knives;Max Gizmo;06/12/2012;972;38.2;0.53968312;true
+Web;Eyewear Store;Knives;Pocket Gizmo;22/07/2014;2046;12.2;0.61838934;true
+Web;Eyewear Store;Binoculars;Seeker 35;21/02/2013;278;98.97;0.28069112;false
+Web;Eyewear Store;Binoculars;Seeker Extreme;29/09/2014;40;171.71;0.45186652;false
+Web;Eyewear Store;Binoculars;Opera Vision;19/03/2013;104;110;0.541;false
+Web;Eyewear Store;Binoculars;Ranger Vision;04/09/2014;359;160;0.39608531;false
+Web;Eyewear Store;Navigation;Glacier GPS;23/09/2013;351;109.73;0.28415201;false
+Web;Eyewear Store;Navigation;Trail Master;19/10/2012;145;365;0.34757657;false
+Web;Eyewear Store;Navigation;Trail Scout;26/06/2014;208;238;0.35562803;true
+Web;Eyewear Store;Navigation;Trail Star;01/06/2014;438;154;0.42461662;false
+Web;Sports Store;Cooking Gear;TrailChef Water Bag;05/07/2014;35122;4.344911452;0.48110201;false
+Web;Sports Store;Cooking Gear;TrailChef Canteen;26/09/2013;5142;9.649434072;0.4833255;false
+Web;Sports Store;Cooking Gear;TrailChef Kitchen Kit;22/02/2013;3408;16.66;0.23529412;false
+Web;Sports Store;Cooking Gear;TrailChef Cup;13/01/2013;3139;3.51;0.75783476;false
+Web;Sports Store;Cooking Gear;TrailChef Cook Set;21/09/2014;3419;52.78678561;0.33752359;false
+Web;Sports Store;Cooking Gear;TrailChef Single Flame;07/01/2014;2559;62.76;0.26099426;false
+Web;Sports Store;Cooking Gear;TrailChef Double Flame;05/07/2013;1374;142.66;0.4742745;false
+Web;Sports Store;Cooking Gear;TrailChef Kettle;14/04/2013;1967;12.56;0.59315287;false
+Web;Sports Store;Cooking Gear;TrailChef Utensils;04/06/2014;446;18.9;0.47089947;false
+Web;Sports Store;Tents;Star Lite;06/10/2013;787;347.92;0.28144401;false
+Web;Sports Store;Tents;Star Dome;20/02/2014;717;611.84;0.35277197;true
+Web;Sports Store;Tents;Star Gazer 2;24/12/2013;304;547.47;0.28293788;false
+Web;Sports Store;Tents;Star Gazer 3;16/03/2014;694;636.41;0.3306202;false
+Web;Sports Store;Tents;Star Gazer 6;10/10/2013;160;784.04875;0.37503886;false
+Web;Sports Store;Tents;Star Peg;12/04/2013;10892;1.959335292;0.48962283;true
+Web;Sports Store;Sleeping Bags;Hibernator Lite;29/06/2013;311;84.68;0.29145017;true
+Web;Sports Store;Sleeping Bags;Hibernator;30/03/2013;1743;138.02;0.3769019;false
+Web;Sports Store;Sleeping Bags;Hibernator Self - Inflating Mat;01/12/2012;1656;119.63;0.5440107;false
+Web;Sports Store;Sleeping Bags;Hibernator Pad;25/11/2013;381;39.43;0.51382196;false
+Web;Sports Store;Sleeping Bags;Hibernator Pillow;01/11/2013;2331;13.15684256;0.45398094;false
+Web;Sports Store;Sleeping Bags;Hibernator Camp Cot;11/10/2013;1266;98.21;0.33560737;false
+Web;Sports Store;Packs;Canyon Mule Climber Backpack;31/01/2013;1456;72.84841346;0.27932542;false
+Web;Sports Store;Packs;Canyon Mule Weekender Backpack;15/06/2013;738;268.74;0.37984669;true
+Web;Sports Store;Packs;Canyon Mule Journey Backpack;27/10/2012;1526;348.61;0.38805542;false
+Web;Sports Store;Packs;Canyon Mule Extreme Backpack;04/01/2014;626;432.89;0.4481739;false
+Web;Sports Store;Packs;Canyon Mule Cooler;21/03/2014;4163;32.64345904;0.50985586;false
+Web;Sports Store;Packs;Canyon Mule Carryall;21/10/2013;2224;69.09;0.40396584;false
+Web;Sports Store;Lanterns;Firefly Lite;20/10/2012;1286;14.33;0.52896022;false
+Web;Sports Store;Lanterns;Firefly Mapreader;15/02/2013;379;15.96;0.53007519;false
+Web;Sports Store;Lanterns;Firefly 2;11/07/2014;1008;26.82;0.37844892;false
+Web;Sports Store;Lanterns;Firefly 4;17/08/2014;1783;27.19727987;0.37944538;false
+Web;Sports Store;Lanterns;Firefly Extreme;14/11/2012;395;49.7;0.43420523;false
+Web;Sports Store;Lanterns;EverGlow Single;31/05/2014;1061;33.5;0.46149254;false
+Web;Sports Store;Lanterns;EverGlow Double;30/05/2014;116;52.15;0.44870566;false
+Web;Sports Store;Lanterns;EverGlow Kerosene;11/11/2013;2460;30.92;0.35316947;true
+Web;Sports Store;Lanterns;EverGlow Butane;05/01/2013;59;65.02;0.37511535;false
+Web;Sports Store;Lanterns;EverGlow Lamp;07/08/2013;2084;27.0368762;0.33535221;false
+Web;Sports Store;Lanterns;Flicker Lantern;23/12/2012;1202;34.17569052;0.54294998;false
+Web;Sports Store;Watches;Mountain Man Analog;01/02/2013;789;47.49570342;0.36836392;true
+Web;Sports Store;Watches;Mountain Man Digital;21/12/2012;418;35.54490431;0.43733144;true
+Web;Sports Store;Watches;Mountain Man Deluxe;28/07/2013;528;76.82979167;0.49238441;false
+Web;Sports Store;Watches;Mountain Man Combination;18/06/2013;247;93.81226721;0.5203186;false
+Web;Sports Store;Watches;Mountain Man Extreme;13/02/2014;112;283.8107143;0.59060742;false
+Web;Sports Store;Watches;Venue;25/06/2013;3538;72.0732052;0.41926916;false
+Web;Sports Store;Watches;Infinity;10/02/2014;932;227.445279;0.45404969;false
+Web;Sports Store;Watches;Lux;27/11/2012;609;169.0627258;0.47679255;false
+Web;Sports Store;Watches;Sam;06/05/2013;905;44.9;0.38841871;true
+Web;Sports Store;Watches;TX;24/05/2013;3129;188.7120486;0.45360639;false
+Web;Sports Store;Watches;Legend;13/04/2013;1754;253.3629418;0.44464947;false
+Web;Sports Store;Watches;Kodiak;16/03/2014;1969;122.5070086;0.45228361;false
+Web;Sports Store;Eyewear;Polar Sun;14/05/2014;1521;60.44149244;0.56735019;false
+Web;Sports Store;Eyewear;Polar Ice;20/11/2012;364;105.6423077;0.5296392;false
+Web;Sports Store;Eyewear;Polar Sports;07/05/2014;174;115.34;0.48950928;false
+Web;Sports Store;Eyewear;Bella;24/06/2013;1287;67.5;0.45498541;false
+Web;Sports Store;Eyewear;Capri;07/08/2013;5002;38.3;0.3412493;false
+Web;Sports Store;Eyewear;Cat Eye;08/12/2012;14124;29.62355919;0.32418425;true
+Web;Sports Store;Eyewear;Dante;18/04/2014;5999;43.18108851;0.35337773;false
+Web;Sports Store;Eyewear;Fairway;04/06/2014;10379;20.15;0.4040341;false
+Web;Sports Store;Eyewear;Inferno;23/02/2013;3689;64.28079425;0.4107304;false
+Web;Sports Store;Eyewear;Maximus;13/08/2013;3886;80.98044261;0.49987489;true
+Web;Sports Store;Eyewear;Trendi;13/02/2014;2422;50.3;0.3957648;true
+Web;Sports Store;Eyewear;Zone;31/07/2014;20710;30.80639788;0.3285006;false
+Web;Sports Store;Eyewear;Hawk Eye;18/05/2014;2476;40.5;0.41873701;false
+Web;Sports Store;Knives;Single Edge;17/06/2014;23514;12.02795696;0.28832469;false
+Web;Sports Store;Knives;Double Edge;06/09/2013;1054;16.1883871;0.29393831;false
+Web;Sports Store;Knives;Edge Extreme;05/08/2014;578;112.51;0.28895209;false
+Web;Sports Store;Knives;Bear Edge;15/01/2013;1618;39.3;0.40127226;false
+Web;Sports Store;Knives;Bear Survival Edge;11/10/2012;511;87.02440313;0.48290366;true
+Web;Sports Store;Knives;Max Gizmo;30/03/2014;1108;38.2;0.53899011;false
+Web;Sports Store;Knives;Pocket Gizmo;28/03/2014;3386;12.2;0.61186419;false
+Web;Sports Store;Binoculars;Seeker 35;16/07/2014;914;98.97;0.28069112;false
+Web;Sports Store;Binoculars;Seeker 50;05/11/2013;539;126.06;0.26558782;false
+Web;Sports Store;Binoculars;Seeker Extreme;27/05/2013;398;171.71;0.45186652;false
+Web;Sports Store;Binoculars;Seeker Mini;15/09/2014;747;80.5051004;0.50313707;false
+Web;Sports Store;Binoculars;Opera Vision;27/04/2013;285;110;0.54258309;false
+Web;Sports Store;Binoculars;Ranger Vision;13/01/2014;685;160;0.37533394;false
+Web;Sports Store;Navigation;Glacier Basic;05/09/2013;4149;31.80545915;0.37117713;false
+Web;Sports Store;Navigation;Glacier Deluxe;04/09/2013;270;90.65;0.37970215;false
+Web;Sports Store;Navigation;Glacier GPS;19/06/2013;1308;109.73;0.28415201;false
+Web;Sports Store;Navigation;Glacier GPS Extreme;22/10/2012;458;338.02;0.4779303;true
+Web;Sports Store;Navigation;Trail Master;26/02/2014;203;365;0.34838127;false
+Web;Sports Store;Navigation;Trail Scout;07/07/2013;368;238;0.35489587;false
+Web;Sports Store;Navigation;Trail Star;08/02/2013;403;154;0.42442557;false
+Web;Sports Store;Insect Repellents;BugShield Spray;29/09/2013;2332;5.911046312;0.69041014;true
+Web;Sports Store;Insect Repellents;BugShield Lotion;05/08/2013;2645;6.828347826;0.65877544;true
+Web;Sports Store;Insect Repellents;BugShield Extreme;23/06/2014;3664;6.58;0.63221884;false
+Web;Sports Store;Sunscreen;Sun Blocker;23/11/2013;5404;4.91565507;0.60330821;false
+Web;Sports Store;Sunscreen;Sun Shelter Stick;13/10/2013;3177;4.859191061;0.59664068;false
+Web;Sports Store;Sunscreen;Sun Shelter 15;25/05/2013;748;4.9;0.63469388;false
+Web;Sports Store;Sunscreen;Sun Shelter 30;01/03/2013;7468;4.727577665;0.60867909;false
+Web;Sports Store;First Aid;Deluxe Family Relief Kit;02/08/2014;304;33.95;0.58645066;false
+Web;Sports Store;First Aid;Calamine Relief;12/12/2012;517;6;0.52833333;true
+Web;Sports Store;First Aid;Aloe Relief;25/07/2014;128;5.23;0.63288719;false
+Web;Sports Store;First Aid;Insect Bite Relief;11/03/2014;114;6;0.54;false
+Web;Sports Store;Irons;Hailstorm Steel Irons;18/05/2013;373;399.5003753;0.44680903;false
+Web;Sports Store;Irons;Hailstorm Titanium Irons;21/05/2014;215;872.82;0.43751289;false
+Web;Sports Store;Irons;Lady Hailstorm Titanium Irons;21/12/2013;179;835.68;0.44955007;false
+Web;Sports Store;Woods;Hailstorm Titanium Woods Set;21/02/2014;304;1194.82;0.42250716;false
+Web;Sports Store;Woods;Hailstorm Steel Woods Set;09/01/2014;362;667.5062983;0.48824453;false
+Web;Sports Store;Woods;Lady Hailstorm Titanium Woods Set;16/09/2014;321;1278.14;0.48311609;false
+Web;Sports Store;Putters;Blue Steel Putter;12/09/2014;828;84.16888889;0.51050797;false
+Web;Sports Store;Putters;Blue Steel Max Putter;09/01/2013;598;169.79;0.45933212;false
+Web;Sports Store;Golf Accessories;Course Pro Golf and Tee Set;03/10/2014;928;4.810387931;0.41792636;false
+Web;Sports Store;Golf Accessories;Course Pro Umbrella;26/06/2014;1887;9.164965554;0.34533306;true
+Web;Sports Store;Golf Accessories;Course Pro Golf Bag;18/10/2012;808;200.8705817;0.60322712;false
+Sales visit;Golf Shop;Irons;Hailstorm Titanium Irons;17/01/2013;74;872.82;0.43751289;false
+Sales visit;Golf Shop;Woods;Hailstorm Titanium Woods Set;08/04/2014;93;1194.82;0.42250716;false
+Sales visit;Golf Shop;Putters;Course Pro Putter;16/11/2013;764;72.25;0.51695502;true
+Sales visit;Golf Shop;Putters;Blue Steel Max Putter;28/06/2014;240;169.79;0.45933212;true
+Sales visit;Direct Marketing;Cooking Gear;TrailChef Kitchen Kit;09/09/2013;992;23.09;0.31009095;false
+Sales visit;Direct Marketing;Cooking Gear;TrailChef Deluxe Cook Set;15/12/2013;454;121.94;0.34754797;false
+Sales visit;Direct Marketing;Cooking Gear;TrailChef Utensils;09/07/2014;1231;18.52;0.4600432;false
+Sales visit;Direct Marketing;Tents;Star Gazer 2;17/10/2012;301;547.47;0.28293788;false
+Sales visit;Direct Marketing;Sleeping Bags;Hibernator Pad;30/05/2014;391;39.43;0.51382196;false
+Sales visit;Direct Marketing;Packs;Canyon Mule Carryall;03/04/2013;869;69.09;0.40396584;false
+Sales visit;Direct Marketing;Lanterns;Firefly Mapreader;29/06/2014;797;15.8;0.52531646;false
+Sales visit;Direct Marketing;Lanterns;Firefly Multi-light;18/06/2014;525;26.01;0.31641676;false
+Sales visit;Direct Marketing;Insect Repellents;BugShield Spray;30/12/2013;1707;5.89;0.6893039;true
+Sales visit;Direct Marketing;Sunscreen;Sun Shield;15/11/2012;1202;5.82;0.5257732;false
+Sales visit;Outdoors Shop;Cooking Gear;TrailChef Deluxe Cook Set;08/10/2012;226;121.94;0.34754797;false
+Sales visit;Outdoors Shop;Cooking Gear;TrailChef Double Flame;10/07/2014;117;142.66;0.4742745;false
+Sales visit;Outdoors Shop;Tents;Star Dome;06/05/2013;150;611.84;0.35277197;true
+Sales visit;Outdoors Shop;Sleeping Bags;Hibernator Lite;02/10/2013;764;84.68;0.29145017;true
+Sales visit;Outdoors Shop;Sleeping Bags;Hibernator Extreme;25/07/2014;332;249.23;0.39814629;false
+Sales visit;Outdoors Shop;Sleeping Bags;Hibernator Self - Inflating Mat;14/06/2013;461;119.63;0.5440107;false
+Sales visit;Outdoors Shop;Lanterns;EverGlow Single;06/03/2013;642;33.5;0.46149254;false
+Sales visit;Outdoors Shop;Rope;Husky Rope 50;05/11/2013;151;150.4;0.32905585;false
+Sales visit;Outdoors Shop;Rope;Husky Rope 60;30/03/2014;159;178.6;0.29165733;false
+Sales visit;Outdoors Shop;Rope;Husky Rope 100;25/07/2014;369;325.86;0.30126435;false
+Sales visit;Outdoors Shop;Rope;Husky Rope 200;24/02/2013;214;540.48;0.31477575;true
+Sales visit;Outdoors Shop;Safety;Granite Climbing Helmet;03/02/2013;1407;69.56;0.24468085;false
+Sales visit;Outdoors Shop;Safety;Husky Harness;16/07/2014;1135;61.1;0.28363339;false
+Sales visit;Outdoors Shop;Safety;Husky Harness Extreme;25/06/2014;1502;103.4;0.47843327;false
+Sales visit;Outdoors Shop;Safety;Granite Signal Mirror;29/12/2013;522;32.34;0.51422387;false
+Sales visit;Outdoors Shop;Climbing Accessories;Granite Carabiner;11/12/2012;13756;3.770113405;0.48012174;false
+Sales visit;Outdoors Shop;Climbing Accessories;Granite Belay;01/12/2013;1039;65.8;0.47613982;false
+Sales visit;Outdoors Shop;Climbing Accessories;Granite Pulley;02/03/2013;1616;36.86;0.50217037;false
+Sales visit;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;15/03/2013;808;38.79;0.42768755;false
+Sales visit;Outdoors Shop;Climbing Accessories;Firefly Charger;14/01/2013;1072;51.4;0.56498054;false
+Sales visit;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;20/04/2014;3211;7.68;0.58984375;false
+Sales visit;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;22/04/2014;734;17.64;0.51643991;false
+Sales visit;Outdoors Shop;Tools;Granite Ice;11/08/2013;1351;75.2;0.48178191;true
+Sales visit;Outdoors Shop;Tools;Granite Hammer;12/02/2013;706;75.18;0.2434158;false
+Sales visit;Outdoors Shop;Tools;Granite Shovel;06/04/2013;640;58.2621875;0.33782095;false
+Sales visit;Outdoors Shop;Tools;Granite Grip;17/04/2013;1032;19.49127907;0.49259359;false
+Sales visit;Outdoors Shop;Tools;Granite Axe;22/02/2014;824;38.8;0.49690722;true
+Sales visit;Outdoors Shop;Tools;Granite Extreme;03/11/2013;270;75.2;0.38138298;true
+Sales visit;Outdoors Shop;Watches;Mountain Man Digital;04/10/2013;51;40.78;0.50956351;false
+Sales visit;Outdoors Shop;Knives;Edge Extreme;15/04/2013;139;112.51;0.28895209;false
+Sales visit;Outdoors Shop;Navigation;Glacier Deluxe;07/01/2014;64;91.62;0.38626937;false
+Sales visit;Outdoors Shop;Navigation;Glacier GPS Extreme;24/12/2012;113;338.02;0.4779303;false
+Sales visit;Outdoors Shop;Insect Repellents;BugShield Extreme;26/11/2012;5290;6.622661626;0.634588;false
+Sales visit;Outdoors Shop;Sunscreen;Sun Shelter Stick;13/03/2013;1241;4.85;0.59587629;false
+Sales visit;Outdoors Shop;Sunscreen;Sun Shelter 30;10/12/2013;3323;4.7;0.60638298;true
+Sales visit;Outdoors Shop;First Aid;Compact Relief Kit;24/02/2014;79;23;0.60869565;false
+Sales visit;Eyewear Store;Watches;Mountain Man Analog;14/08/2013;684;47.4794883;0.3681482;false
+Sales visit;Eyewear Store;Eyewear;Polar Sun;26/10/2012;676;59.7385503;0.56225921;false
+Sales visit;Eyewear Store;Eyewear;Polar Ice;21/12/2013;132;104.2416667;0.52331921;false
+Sales visit;Eyewear Store;Eyewear;Polar Sports;10/02/2014;245;115.34;0.48950928;false
+Sales visit;Eyewear Store;Eyewear;Polar Wave;28/09/2014;78;94.29769231;0.56393419;false
+Sales visit;Eyewear Store;Eyewear;Polar Extreme;18/07/2014;44;146.2075;0.50412941;false
+Sales visit;Eyewear Store;Binoculars;Seeker 35;28/08/2013;280;98.97;0.28069112;false
+Sales visit;Eyewear Store;Binoculars;Seeker 50;10/02/2013;132;126.06;0.26558782;false
+Sales visit;Eyewear Store;Binoculars;Seeker Extreme;16/12/2013;83;171.71;0.45186652;false
+Sales visit;Sports Store;Cooking Gear;TrailChef Water Bag;03/04/2014;12424;3.95;0.46582278;false
+Sales visit;Sports Store;Cooking Gear;TrailChef Canteen;06/05/2014;1631;8.77;0.49600912;true
+Sales visit;Sports Store;Cooking Gear;TrailChef Kitchen Kit;25/10/2012;1348;16.66;0.23529412;false
+Sales visit;Sports Store;Tents;Star Peg;09/12/2012;2421;1.96;0.48979592;false
+Sales visit;Sports Store;Packs;Canyon Mule Climber Backpack;13/10/2013;528;72.25;0.2733564;false
+Sales visit;Sports Store;Lanterns;EverGlow Lamp;27/02/2013;1056;26.7;0.32696629;true
+Sales visit;Sports Store;Eyewear;Polar Sun;09/01/2013;242;60.32586777;0.56652095;true
+Sales visit;Sports Store;Knives;Edge Extreme;01/06/2014;312;112.51;0.28895209;false
+Sales visit;Sports Store;Knives;Bear Survival Edge;16/11/2012;167;86.75;0.48126801;false
+Sales visit;Sports Store;Binoculars;Seeker Extreme;28/08/2014;84;171.71;0.45186652;false
+Sales visit;Sports Store;Insect Repellents;BugShield Lotion;10/10/2012;965;6.86;0.66034985;false
+Sales visit;Sports Store;Sunscreen;Sun Blocker;18/03/2013;809;4.9;0.60204082;false
+Sales visit;Sports Store;First Aid;Calamine Relief;31/10/2012;96;6;0.52833333;false
+Sales visit;Sports Store;Woods;Lady Hailstorm Titanium Woods Set;08/06/2013;52;1278.14;0.48311609;false
+Sales visit;Sports Store;Golf Accessories;Course Pro Golf and Tee Set;08/06/2013;1068;10.21;0.72575906;false
+Special;Outdoors Shop;Sleeping Bags;Hibernator Lite;02/06/2013;1388;84.68;0.29145017;true
+Special;Outdoors Shop;Sleeping Bags;Hibernator Extreme;29/01/2013;362;249.23;0.39814629;false
+Special;Outdoors Shop;Sleeping Bags;Hibernator Self - Inflating Mat;11/12/2012;426;119.63;0.5440107;false
+Special;Outdoors Shop;Packs;Canyon Mule Extreme Backpack;15/09/2013;141;432.89;0.4481739;false
+Special;Outdoors Shop;Lanterns;Firefly Extreme;25/12/2012;199;49.7;0.43420523;true
+Special;Outdoors Shop;Lanterns;EverGlow Single;09/04/2013;611;33.5;0.46149254;true
+Special;Outdoors Shop;Rope;Husky Rope 60;24/08/2013;83;178.6;0.29165733;false
+Special;Outdoors Shop;Rope;Husky Rope 100;08/03/2013;124;325.86;0.30126435;false
+Special;Outdoors Shop;Rope;Husky Rope 200;15/01/2013;79;540.48;0.31477575;false
+Special;Outdoors Shop;Safety;Granite Climbing Helmet;17/05/2013;476;69.56;0.24468085;false
+Special;Outdoors Shop;Safety;Husky Harness;29/12/2012;273;61.1;0.28363339;false
+Special;Outdoors Shop;Safety;Husky Harness Extreme;11/04/2013;340;103.4;0.47843327;false
+Special;Outdoors Shop;Safety;Granite Signal Mirror;29/06/2014;121;32.34;0.51422387;true
+Special;Outdoors Shop;Tools;Granite Ice;01/11/2012;337;75.2;0.48178191;false
+Special;Outdoors Shop;Tools;Granite Axe;07/09/2014;947;38.4;0.49166667;false
+Special;Outdoors Shop;Tools;Granite Extreme;19/09/2014;606;75.2;0.38138298;false
+Special;Outdoors Shop;Watches;Mountain Man Digital;09/05/2013;102;40.36;0.50445986;false
+Special;Outdoors Shop;Watches;Mountain Man Deluxe;24/06/2014;121;76.66;0.49126011;false
+Special;Outdoors Shop;Insect Repellents;BugShield Extreme;25/12/2012;3741;6.58;0.63221884;false
+Special;Outdoors Shop;First Aid;Compact Relief Kit;11/08/2014;158;22.54;0.60070985;false
+Fax;Outdoors Shop;Watches;Venue;19/08/2013;165;73;0.41863014;false
+Fax;Outdoors Shop;Watches;TX;31/01/2014;114;183.8596491;0.45054389;false
+Fax;Outdoors Shop;Watches;Legend;29/01/2014;17;220;0.47345455;false
+Fax;Outdoors Shop;Watches;Kodiak;27/03/2014;271;123.4140221;0.45531676;false
+Fax;Outdoors Shop;Eyewear;Capri;07/03/2013;621;38.3;0.34070668;true
+Fax;Outdoors Shop;Eyewear;Cat Eye;09/10/2012;510;38.63470588;0.34070555;false
+Fax;Outdoors Shop;Eyewear;Dante;20/02/2014;91;43.85;0.34754846;false
+Fax;Outdoors Shop;Eyewear;Fairway;09/01/2013;573;20.15;0.40347395;false
+Fax;Outdoors Shop;Eyewear;Inferno;28/06/2014;67;65;0.39415385;true
+Fax;Outdoors Shop;Eyewear;Maximus;08/12/2012;57;80;0.49489693;true
+Fax;Outdoors Shop;Eyewear;Trendi;20/11/2013;250;50.3;0.39662028;false
+Fax;Outdoors Shop;Eyewear;Hawk Eye;16/10/2013;382;40.5;0.4017284;false
+Fax;Outdoors Shop;Binoculars;Ranger Vision;20/11/2012;26;160;0.5341875;false
+Fax;Outdoors Shop;Navigation;Trail Scout;10/01/2013;49;238;0.35411765;false
+Fax;Outdoors Shop;Navigation;Trail Star;12/12/2013;88;154;0.42402597;false
+E-mail;Golf Shop;Watches;Venue;11/08/2014;303;72.22772277;0.4197231;false
+E-mail;Golf Shop;Watches;Infinity;23/04/2014;66;230;0.44430435;true
+E-mail;Golf Shop;Watches;Lux;02/06/2013;42;167.2;0.47882775;false
+E-mail;Golf Shop;Watches;TX;28/02/2014;135;187.8518519;0.45522634;false
+E-mail;Golf Shop;Watches;Legend;22/03/2013;33;240.9393939;0.44912338;false
+E-mail;Golf Shop;Watches;Kodiak;03/08/2013;123;120.3;0.4434564;false
+E-mail;Golf Shop;Eyewear;Bella;01/08/2013;120;67.5;0.4557037;false
+E-mail;Golf Shop;Eyewear;Capri;13/07/2014;128;38.3;0.34125326;false
+E-mail;Golf Shop;Eyewear;Cat Eye;18/07/2014;764;33.29417539;0.33260578;false
+E-mail;Golf Shop;Eyewear;Fairway;30/05/2013;1087;20.15;0.40453407;false
+E-mail;Golf Shop;Eyewear;Inferno;07/08/2013;444;63.70855856;0.42419944;false
+E-mail;Golf Shop;Eyewear;Maximus;01/07/2014;94;80;0.49525;false
+E-mail;Golf Shop;Eyewear;Trendi;20/12/2012;112;50.3;0.39542744;false
+E-mail;Golf Shop;Eyewear;Zone;15/12/2013;653;30.4;0.31688059;true
+E-mail;Golf Shop;Eyewear;Hawk Eye;27/02/2014;138;40.5;0.39901235;false
+E-mail;Golf Shop;Knives;Max Gizmo;01/04/2013;176;38.2;0.53910043;false
+E-mail;Golf Shop;Binoculars;Opera Vision;29/01/2014;16;110;0.541;false
+E-mail;Golf Shop;Binoculars;Ranger Vision;26/11/2012;141;160;0.46418706;true
+E-mail;Golf Shop;Navigation;Trail Master;26/03/2014;25;365;0.3492274;true
+E-mail;Golf Shop;Woods;Hailstorm Titanium Woods Set;09/02/2014;61;1194.82;0.42250716;false
+E-mail;Golf Shop;Woods;Lady Hailstorm Steel Woods Set;15/06/2013;41;856.17;0.44845066;false
+E-mail;Golf Shop;Putters;Course Pro Putter;30/12/2012;509;72.25;0.51695502;false
+E-mail;Golf Shop;Putters;Blue Steel Max Putter;11/03/2014;174;169.79;0.45933212;false
+E-mail;Department Store;Cooking Gear;TrailChef Water Bag;15/01/2014;2011;6.26;0.53194888;false
+E-mail;Department Store;Cooking Gear;TrailChef Canteen;09/01/2013;941;8.77;0.49600912;false
+E-mail;Department Store;Cooking Gear;TrailChef Kitchen Kit;16/05/2014;598;23.09;0.31009095;false
+E-mail;Department Store;Cooking Gear;TrailChef Cup;08/01/2013;2024;3.569249012;0.76185467;false
+E-mail;Department Store;Cooking Gear;TrailChef Cook Set;19/06/2013;576;52.73;0.33681016;true
+E-mail;Department Store;Cooking Gear;TrailChef Kettle;14/03/2014;9049;9.290300586;0.53606768;false
+E-mail;Department Store;Tents;Star Dome;28/10/2013;216;611.84;0.35277197;false
+E-mail;Department Store;Tents;Star Gazer 6;01/10/2014;129;781.97;0.3733775;false
+E-mail;Department Store;Tents;Star Peg;31/03/2013;3146;1.94;0.48453608;true
+E-mail;Department Store;Sleeping Bags;Hibernator Lite;23/01/2014;410;84.68;0.29145017;true
+E-mail;Department Store;Sleeping Bags;Hibernator;03/02/2014;310;138.02;0.3769019;false
+E-mail;Department Store;Sleeping Bags;Hibernator Pad;06/08/2014;517;39.02;0.50871348;false
+E-mail;Department Store;Sleeping Bags;Hibernator Pillow;20/04/2013;1884;15.06746285;0.49321558;false
+E-mail;Department Store;Sleeping Bags;Hibernator Camp Cot;17/08/2013;984;98.21;0.33560737;false
+E-mail;Department Store;Packs;Canyon Mule Climber Backpack;26/08/2013;372;72.25;0.2733564;false
+E-mail;Department Store;Packs;Canyon Mule Weekender Backpack;21/01/2014;660;268.74;0.37984669;false
+E-mail;Department Store;Packs;Canyon Mule Journey Backpack;31/07/2014;381;348.61;0.38805542;true
+E-mail;Department Store;Packs;Canyon Mule Cooler;12/12/2013;575;32.58;0.50890117;false
+E-mail;Department Store;Lanterns;Firefly Lite;11/05/2014;833;14.33;0.52896022;false
+E-mail;Department Store;Lanterns;Firefly Mapreader;09/04/2013;1111;15.64;0.52046036;false
+E-mail;Department Store;Lanterns;Firefly 2;17/03/2013;2181;26.55;0.37212806;false
+E-mail;Department Store;Lanterns;Firefly 4;08/07/2014;199;28.85;0.37608319;false
+E-mail;Department Store;Lanterns;Firefly Multi-light;16/11/2012;381;26.01;0.31641676;false
+E-mail;Department Store;Lanterns;EverGlow Single;18/04/2014;362;33.85;0.46706056;false
+E-mail;Department Store;Lanterns;EverGlow Double;01/09/2014;103;51.4331068;0.44102152;false
+E-mail;Department Store;Lanterns;EverGlow Butane;03/08/2013;244;63.67;0.36186587;false
+E-mail;Department Store;Lanterns;EverGlow Lamp;26/08/2013;1216;26.98;0.33395107;false
+E-mail;Department Store;Lanterns;Flicker Lantern;11/05/2014;111;34.04;0.54112808;false
+E-mail;Department Store;Watches;Mountain Man Analog;09/08/2014;104;47.41;0.36722211;true
+E-mail;Department Store;Watches;Mountain Man Digital;19/04/2014;73;40.78;0.50956351;false
+E-mail;Department Store;Watches;Mountain Man Deluxe;16/08/2014;81;76.66;0.49126011;false
+E-mail;Department Store;Watches;Mountain Man Combination;27/02/2013;38;96.05;0.53149401;false
+E-mail;Department Store;Watches;Venue;14/02/2013;393;72.00763359;0.41932648;true
+E-mail;Department Store;Watches;Infinity;17/08/2013;181;220;0.47536715;true
+E-mail;Department Store;Watches;Lux;22/03/2013;143;173.1832168;0.47459015;false
+E-mail;Department Store;Watches;Sam;28/05/2014;75;44.9;0.39153675;false
+E-mail;Department Store;Watches;TX;08/08/2013;564;188;0.44935114;false
+E-mail;Department Store;Watches;Legend;19/04/2013;395;255.9372152;0.43857968;false
+E-mail;Department Store;Watches;Kodiak;31/12/2013;75;120.3;0.44272652;false
+E-mail;Department Store;Eyewear;Polar Sun;25/03/2013;84;61.42666667;0.57428913;false
+E-mail;Department Store;Eyewear;Polar Ice;26/04/2014;109;104.6917431;0.52536849;true
+E-mail;Department Store;Eyewear;Polar Sports;15/06/2014;57;115.34;0.48950928;false
+E-mail;Department Store;Eyewear;Bella;21/06/2014;221;67.5;0.45525122;false
+E-mail;Department Store;Eyewear;Capri;09/09/2013;1516;38.3;0.34079583;false
+E-mail;Department Store;Eyewear;Cat Eye;10/09/2014;1516;27.71098285;0.31919205;false
+E-mail;Department Store;Eyewear;Dante;22/03/2014;1646;43.16761847;0.35409752;false
+E-mail;Department Store;Eyewear;Fairway;02/01/2014;662;20.15;0.4047019;false
+E-mail;Department Store;Eyewear;Inferno;21/08/2014;633;64.3614534;0.4093739;false
+E-mail;Department Store;Eyewear;Maximus;15/02/2013;450;81.54444444;0.50341436;false
+E-mail;Department Store;Eyewear;Trendi;12/09/2014;1268;50.3;0.39547165;false
+E-mail;Department Store;Eyewear;Zone;25/09/2014;3317;30.5311426;0.32330224;false
+E-mail;Department Store;Knives;Double Edge;25/06/2013;469;16.31;0.29920294;false
+E-mail;Department Store;Knives;Max Gizmo;06/07/2013;143;38.2;0.53832607;true
+E-mail;Department Store;Binoculars;Seeker 35;25/07/2014;168;98.97;0.28069112;false
+E-mail;Department Store;Binoculars;Seeker 50;06/06/2013;181;126.06;0.26558782;false
+E-mail;Department Store;Binoculars;Ranger Vision;02/08/2014;155;160;0.42211895;false
+E-mail;Department Store;Navigation;Glacier Basic;14/12/2012;577;31.74;0.36988028;true
+E-mail;Department Store;Navigation;Glacier GPS;31/07/2013;231;109.73;0.28415201;true
+E-mail;Department Store;Navigation;Trail Master;02/08/2013;94;365;0.34801894;false
+E-mail;Department Store;Navigation;Trail Scout;06/08/2014;124;238;0.35583932;false
+E-mail;Department Store;Navigation;Trail Star;25/10/2013;246;154;0.42449055;false
+E-mail;Department Store;Insect Repellents;BugShield Lotion Lite;31/05/2013;1931;6.86;0.72594752;false
+E-mail;Department Store;Insect Repellents;BugShield Lotion;03/10/2013;1239;6.86;0.66034985;false
+E-mail;Department Store;Sunscreen;Sun Blocker;26/02/2014;654;4.9;0.60204082;false
+E-mail;Department Store;Sunscreen;Sun Shelter 15;16/05/2013;1096;4.85;0.63092784;false
+E-mail;Department Store;Sunscreen;Sun Shelter 30;01/04/2013;2147;4.75;0.61052632;false
+E-mail;Department Store;Sunscreen;Sun Shield;28/05/2014;907;5.88;0.53061224;false
+E-mail;Department Store;First Aid;Deluxe Family Relief Kit;04/05/2014;552;33.95;0.58645066;false
+E-mail;Department Store;First Aid;Calamine Relief;16/06/2014;79;6;0.52833333;false
+E-mail;Department Store;First Aid;Aloe Relief;09/01/2013;371;5.23;0.63288719;true
+E-mail;Department Store;First Aid;Insect Bite Relief;24/04/2013;227;6;0.54;false
+E-mail;Department Store;Irons;Hailstorm Steel Irons;13/01/2013;326;380.3957055;0.41902604;false
+E-mail;Department Store;Irons;Hailstorm Titanium Irons;19/05/2014;99;872.82;0.43751289;false
+E-mail;Department Store;Irons;Lady Hailstorm Steel Irons;11/08/2013;219;500.79;0.44535634;true
+E-mail;Department Store;Irons;Lady Hailstorm Titanium Irons;20/05/2013;88;835.68;0.44955007;true
+E-mail;Department Store;Woods;Hailstorm Titanium Woods Set;24/12/2013;118;1194.82;0.42250716;false
+E-mail;Department Store;Woods;Hailstorm Steel Woods Set;28/01/2014;278;678.2745324;0.49636912;false
+E-mail;Department Store;Woods;Lady Hailstorm Titanium Woods Set;09/10/2012;33;1278.14;0.48311609;false
+E-mail;Department Store;Woods;Lady Hailstorm Steel Woods Set;23/12/2012;151;856.17;0.44845066;false
+E-mail;Department Store;Putters;Course Pro Putter;11/05/2013;2647;72.25;0.51695502;false
+E-mail;Department Store;Putters;Blue Steel Putter;09/08/2013;817;84.44581395;0.51211318;false
+E-mail;Department Store;Putters;Blue Steel Max Putter;20/12/2013;364;169.79;0.45933212;true
+E-mail;Department Store;Golf Accessories;Course Pro Golf and Tee Set;01/03/2013;1907;10.2447247;0.7266886;false
+E-mail;Department Store;Golf Accessories;Course Pro Umbrella;11/10/2013;2048;12.34132324;0.51382847;false
+E-mail;Department Store;Golf Accessories;Course Pro Golf Bag;23/05/2014;167;206.9023353;0.6147941;false
+E-mail;Department Store;Golf Accessories;Course Pro Gloves;15/02/2014;3062;7.592452645;0.68257952;false
+E-mail;Outdoors Shop;Cooking Gear;TrailChef Deluxe Cook Set;03/08/2013;308;121.94;0.34754797;false
+E-mail;Outdoors Shop;Cooking Gear;TrailChef Double Flame;27/01/2014;162;142.66;0.4742745;false
+E-mail;Outdoors Shop;Tents;Star Dome;11/11/2013;89;611.84;0.35277197;false
+E-mail;Outdoors Shop;Tents;Star Peg;04/11/2013;1406;2;0.5;false
+E-mail;Outdoors Shop;Sleeping Bags;Hibernator Lite;14/05/2014;442;84.68;0.29145017;false
+E-mail;Outdoors Shop;Packs;Canyon Mule Extreme Backpack;28/04/2013;89;432.89;0.4481739;false
+E-mail;Outdoors Shop;Lanterns;Firefly Lite;05/05/2014;388;14.47;0.53351762;false
+E-mail;Outdoors Shop;Lanterns;EverGlow Butane;15/04/2014;73;63.67;0.36186587;true
+E-mail;Outdoors Shop;Rope;Husky Rope 50;01/11/2012;97;150.4;0.32905585;false
+E-mail;Outdoors Shop;Rope;Husky Rope 60;22/04/2013;53;178.6;0.29165733;false
+E-mail;Outdoors Shop;Rope;Husky Rope 100;10/01/2014;84;325.86;0.30126435;false
+E-mail;Outdoors Shop;Rope;Husky Rope 200;20/10/2012;41;540.48;0.31477575;true
+E-mail;Outdoors Shop;Safety;Granite Climbing Helmet;;345;69.56;0.24468085;true
+E-mail;Outdoors Shop;Safety;Husky Harness;2012;198;61.1;0.28363339;false
+E-mail;Outdoors Shop;Climbing Accessories;Granite Carabiner;2012;2461;3.8;0.48421053;false
+E-mail;Outdoors Shop;Climbing Accessories;Granite Belay;2012;198;65.8;0.47613982;false
+E-mail;Outdoors Shop;Climbing Accessories;Granite Pulley;2012;346;36.86;0.50217037;false
+E-mail;Outdoors Shop;Climbing Accessories;Firefly Climbing Lamp;2012;151;38.79;0.42768755;false
+E-mail;Outdoors Shop;Climbing Accessories;Firefly Charger;2012;259;51.4;0.56498054;false
+E-mail;Outdoors Shop;Climbing Accessories;Firefly Rechargeable Battery;2012;1018;7.76;0.59407216;true
+E-mail;Outdoors Shop;Climbing Accessories;Granite Chalk Bag;2012;162;17.64;0.51643991;false
+E-mail;Outdoors Shop;Tools;Granite Hammer;2012;143;75.18;0.2434158;false
+E-mail;Outdoors Shop;Tools;Granite Shovel;2012;123;58.19;0.33699948;false
+E-mail;Outdoors Shop;Tools;Granite Grip;2012;343;19.6;0.49540816;false
+E-mail;Outdoors Shop;Tools;Granite Axe;2012;506;38.4;0.49166667;false
+E-mail;Outdoors Shop;Tools;Granite Extreme;2012;411;75.2;0.38138298;false
+E-mail;Outdoors Shop;Watches;Mountain Man Combination;2012;41;95.07;0.52666456;false
+E-mail;Outdoors Shop;Watches;Venue;2012;620;71.6983871;0.41911457;false
+E-mail;Outdoors Shop;Watches;Infinity;2012;154;220;0.47583471;false
+E-mail;Outdoors Shop;Watches;Lux;2012;146;167.8136986;0.4766228;false
+E-mail;Outdoors Shop;Watches;Sam;2012;403;44.9;0.39049998;false
+E-mail;Outdoors Shop;Watches;TX;2012;529;188.7939509;0.44969241;true
+E-mail;Outdoors Shop;Watches;Legend;2012;229;249.8209607;0.43407751;false
+E-mail;Outdoors Shop;Watches;Kodiak;2012;237;120.3;0.44272652;false
+E-mail;Outdoors Shop;Eyewear;Polar Sun;2012;76;60.92631579;0.57079302;false
+E-mail;Outdoors Shop;Eyewear;Capri;2012;1631;38.3;0.34136148;true
+E-mail;Outdoors Shop;Eyewear;Cat Eye;2012;2904;28.94299242;0.32201267;true
+E-mail;Outdoors Shop;Eyewear;Dante;2012;1657;42.91240193;0.35603498;false
+E-mail;Outdoors Shop;Eyewear;Fairway;2012;3020;20.15;0.4033737;false
+E-mail;Outdoors Shop;Eyewear;Inferno;2012;183;65;0.39393106;false
+E-mail;Outdoors Shop;Eyewear;Maximus;2012;452;80;0.49354065;false
+E-mail;Outdoors Shop;Eyewear;Trendi;2012;1144;50.3;0.39511984;false
+E-mail;Outdoors Shop;Eyewear;Zone;2012;1855;31.03881402;0.32791497;false
+E-mail;Outdoors Shop;Eyewear;Hawk Eye;2012;307;40.5;0.40604415;true
+E-mail;Outdoors Shop;Knives;Edge Extreme;2012;178;112.51;0.28895209;false
+E-mail;Outdoors Shop;Knives;Bear Survival Edge;2012;63;87.68;0.48677007;false
+E-mail;Outdoors Shop;Knives;Max Gizmo;2012;103;38.2;0.53717277;false
+E-mail;Outdoors Shop;Knives;Pocket Gizmo;2012;258;12.2;0.6;false
+E-mail;Outdoors Shop;Binoculars;Seeker Mini;2012;83;80.43;0.50267313;false
+E-mail;Outdoors Shop;Binoculars;Ranger Vision;2012;240;160;0.41232188;false
+E-mail;Outdoors Shop;Navigation;Glacier GPS Extreme;2012;75;338.02;0.4779303;false
+E-mail;Outdoors Shop;Navigation;Trail Master;2012;86;365;0.34775215;false
+E-mail;Outdoors Shop;Navigation;Trail Scout;2012;139;238;0.35531316;true
+E-mail;Outdoors Shop;Navigation;Trail Star;2012;111;154;0.42506494;false
+E-mail;Outdoors Shop;Insect Repellents;BugShield Extreme;2012;2367;6.65;0.63609023;false
+E-mail;Outdoors Shop;Sunscreen;Sun Shelter 30;2012;1965;4.8;0.61458333;false
+E-mail;Outdoors Shop;First Aid;Insect Bite Relief;2012;39;6;0.54;true
+E-mail;Eyewear Store;Watches;Venue;2012;387;73;0.41931259;true
+E-mail;Eyewear Store;Watches;Infinity;2012;122;220;0.47485842;false
+E-mail;Eyewear Store;Watches;Lux;2012;48;179.6;0.47171492;false
+E-mail;Eyewear Store;Watches;TX;2012;253;190.513834;0.45559461;false
+E-mail;Eyewear Store;Watches;Legend;2012;181;262.1237569;0.44477957;false
+E-mail;Eyewear Store;Watches;Kodiak;2012;152;120.3;0.44272652;false
+E-mail;Eyewear Store;Eyewear;Bella;2012;232;71.37931034;0.43421618;false
+E-mail;Eyewear Store;Eyewear;Capri;2012;82;38.3;0.34020888;true
+E-mail;Eyewear Store;Eyewear;Cat Eye;2012;1629;30.89241866;0.32713719;false
+E-mail;Eyewear Store;Eyewear;Dante;2012;397;42.97141058;0.35563508;false
+E-mail;Eyewear Store;Eyewear;Fairway;2012;1385;20.15;0.40253514;false
+E-mail;Eyewear Store;Eyewear;Inferno;2012;524;64.3855916;0.4072482;false
+E-mail;Eyewear Store;Eyewear;Maximus;2012;351;80;0.49343483;false
+E-mail;Eyewear Store;Eyewear;Trendi;2012;14;50.3;0.39483101;false
+E-mail;Eyewear Store;Eyewear;Zone;2012;1976;30.54331984;0.32524572;false
+E-mail;Eyewear Store;Binoculars;Opera Vision;2012;132;110;0.54378994;false
+E-mail;Eyewear Store;Navigation;Trail Scout;2012;55;238;0.35411765;false
+E-mail;Eyewear Store;Navigation;Trail Star;2012;69;154;0.42402597;false
+E-mail;Sports Store;Cooking Gear;TrailChef Single Flame;2012;458;62.76;0.26099426;false
+E-mail;Sports Store;Cooking Gear;TrailChef Kettle;2012;1376;12.69;0.59732072;true
+E-mail;Sports Store;Tents;Star Lite;2012;327;347.92;0.28144401;false
+E-mail;Sports Store;Tents;Star Dome;2012;105;611.84;0.35277197;false
+E-mail;Sports Store;Tents;Star Gazer 3;2012;86;636.41;0.3306202;false
+E-mail;Sports Store;Tents;Star Gazer 6;2012;27;781.97;0.3733775;true
+E-mail;Sports Store;Sleeping Bags;Hibernator Extreme;2012;235;249.23;0.39814629;true
+E-mail;Sports Store;Lanterns;Firefly 4;2012;165;28.85;0.37608319;false
+E-mail;Sports Store;Watches;Mountain Man Analog;2012;81;47.9;0.3736952;false
+E-mail;Sports Store;Watches;Venue;2012;302;71.3807947;0.41920397;false
+E-mail;Sports Store;Watches;Infinity;2012;42;240;0.41691667;false
+E-mail;Sports Store;Watches;Lux;2012;199;168.6110553;0.4759835;false
+E-mail;Sports Store;Watches;Sam;2012;220;44.9;0.38841871;false
+E-mail;Sports Store;Watches;TX;2012;304;189.4605263;0.4537395;true
+E-mail;Sports Store;Watches;Legend;2012;181;261.5226519;0.43922798;false
+E-mail;Sports Store;Watches;Kodiak;2012;241;123.4394191;0.45651436;false
+E-mail;Sports Store;Eyewear;Polar Sun;2012;80;61.3905;0.57403833;false
+E-mail;Sports Store;Eyewear;Bella;2012;107;75;0.4148;false
+E-mail;Sports Store;Eyewear;Capri;2012;775;38.3;0.34102552;false
+E-mail;Sports Store;Eyewear;Cat Eye;2012;1512;26.8;0.31580861;false
+E-mail;Sports Store;Eyewear;Dante;2012;553;43.08905967;0.35505881;false
+E-mail;Sports Store;Eyewear;Fairway;2012;641;20.15;0.40376892;false
+E-mail;Sports Store;Eyewear;Inferno;2012;516;64.3123062;0.4090878;false
+E-mail;Sports Store;Eyewear;Maximus;2012;451;80;0.49301358;false
+E-mail;Sports Store;Eyewear;Trendi;2012;53;50.3;0.39483101;false
+E-mail;Sports Store;Eyewear;Zone;2012;1371;30.49037199;0.32242484;true
+E-mail;Sports Store;Knives;Bear Survival Edge;2012;52;88.6;0.49209932;false
+E-mail;Sports Store;Knives;Max Gizmo;2012;78;38.2;0.53717277;false
+E-mail;Sports Store;Knives;Pocket Gizmo;2012;618;12.2;0.59922012;false
+E-mail;Sports Store;Binoculars;Seeker 35;2012;183;98.97;0.28069112;true
+E-mail;Sports Store;Binoculars;Seeker Mini;2012;94;80.43;0.50267313;true
+E-mail;Sports Store;Binoculars;Opera Vision;2012;26;110;0.54354545;false
+E-mail;Sports Store;Navigation;Glacier Basic;2012;546;31.74;0.36988028;false
+E-mail;Sports Store;Navigation;Trail Scout;2012;42;238;0.35411765;false
+E-mail;Sports Store;Navigation;Trail Star;2012;62;154;0.42402597;false
+E-mail;Sports Store;Insect Repellents;BugShield Spray;2012;610;5.89;0.6893039;false
+E-mail;Sports Store;Sunscreen;Sun Blocker;2012;621;4.9;0.60204082;false
+E-mail;Sports Store;First Aid;Calamine Relief;2012;67;6;0.52833333;false
+E-mail;Sports Store;Woods;Hailstorm Steel Woods Set;2012;65;654.24;0.47786745;false
+E-mail;Sports Store;Woods;Lady Hailstorm Titanium Woods Set;2012;35;1278.14;0.48311609;true
+E-mail;Sports Store;Golf Accessories;Course Pro Golf and Tee Set;2012;593;10.32;0.72868217;false
+Web;Golf Shop;Watches;Venue;2012;375;72.392;0.41909014;false
+Web;Golf Shop;Watches;Infinity;2012;117;224.957265;0.46252584;false
+Web;Golf Shop;Watches;Lux;2012;66;179.6;0.47171492;true
+Web;Golf Shop;Watches;Sam;2012;186;44.9;0.39153675;true
+Web;Golf Shop;Watches;TX;2012;144;190.4166667;0.45357403;false
+Web;Golf Shop;Watches;Legend;2012;173;256.6369942;0.44201206;false
+Web;Golf Shop;Watches;Kodiak;2012;162;120.3;0.44326221;false
+Web;Golf Shop;Eyewear;Bella;2012;103;75;0.41786667;false
+Web;Golf Shop;Eyewear;Capri;2012;253;38.3;0.34020888;false
+Web;Golf Shop;Eyewear;Cat Eye;2012;2081;32.28942816;0.33086586;false
+Web;Golf Shop;Eyewear;Dante;2012;1466;43.10784447;0.35461777;true
+Web;Golf Shop;Eyewear;Fairway;2012;307;20.15;0.40347395;false
+Web;Golf Shop;Eyewear;Inferno;2012;381;63.81574803;0.42092351;false
+Web;Golf Shop;Eyewear;Maximus;2012;187;80;0.49417045;false
+Web;Golf Shop;Eyewear;Trendi;2012;320;50.3;0.39505654;false
+Web;Golf Shop;Eyewear;Zone;2012;1556;30.5503856;0.32361433;false
+Web;Golf Shop;Eyewear;Hawk Eye;2012;372;40.5;0.40036572;false
+Web;Golf Shop;Knives;Max Gizmo;2012;231;38.2;0.53717277;false
+Web;Golf Shop;Knives;Pocket Gizmo;2012;951;12.2;0.62258882;false
+Web;Golf Shop;Binoculars;Ranger Vision;2012;33;160;0.36;false
+Web;Golf Shop;Navigation;Trail Master;2012;20;365;0.34961644;false
+Web;Golf Shop;Navigation;Trail Scout;2012;23;238;0.35798319;false
+Web;Golf Shop;Irons;Hailstorm Steel Irons;2012;142;433.34;0.49000785;true
+Web;Golf Shop;Irons;Hailstorm Titanium Irons;2012;159;872.82;0.43751289;false
+Web;Golf Shop;Irons;Lady Hailstorm Steel Irons;2012;44;500.79;0.44535634;false
+Web;Golf Shop;Irons;Lady Hailstorm Titanium Irons;2012;139;835.68;0.44955007;false
+Web;Golf Shop;Woods;Hailstorm Titanium Woods Set;2012;58;1194.82;0.42250716;true
+Web;Golf Shop;Woods;Hailstorm Steel Woods Set;2012;74;654.24;0.47786745;true
+Web;Golf Shop;Woods;Lady Hailstorm Titanium Woods Set;2012;73;1278.14;0.48311609;false
+Web;Golf Shop;Woods;Lady Hailstorm Steel Woods Set;2012;42;856.17;0.44845066;false
+Web;Golf Shop;Putters;Blue Steel Putter;2012;190;83.43;0.50617284;false
+Web;Golf Shop;Putters;Blue Steel Max Putter;2012;169;169.79;0.45933212;false
+Web;Golf Shop;Golf Accessories;Course Pro Golf and Tee Set;2012;616;10.32;0.72868217;false
+Web;Golf Shop;Golf Accessories;Course Pro Umbrella;2012;1300;12.43;0.51729686;false
+Web;Golf Shop;Golf Accessories;Course Pro Golf Bag;2012;66;206.14;0.61336955;true
+Web;Golf Shop;Golf Accessories;Course Pro Gloves;2012;957;10.43103448;0.76895868;false
+Web;Department Store;Cooking Gear;TrailChef Water Bag;2012;2049;6.26;0.53194888;false
+Web;Department Store;Cooking Gear;TrailChef Canteen;2012;555;12.15;0.45514403;false
+Web;Department Store;Cooking Gear;TrailChef Kitchen Kit;2012;609;23.09;0.31009095;false
+Web;Department Store;Cooking Gear;TrailChef Cup;2012;2015;3.569692308;0.76188424;false
+Web;Department Store;Cooking Gear;TrailChef Cook Set;2012;539;52.73;0.33681016;false
+Web;Department Store;Sleeping Bags;Hibernator Lite;2012;429;84.68;0.29145017;false
+Web;Department Store;Sleeping Bags;Hibernator;2012;659;138.02;0.3769019;false
+Web;Department Store;Packs;Canyon Mule Climber Backpack;2012;367;72.25;0.2733564;false
+Web;Department Store;Packs;Canyon Mule Weekender Backpack;2012;229;268.74;0.37984669;false
+Web;Department Store;Packs;Canyon Mule Journey Backpack;2012;562;348.61;0.38805542;false
+Web;Department Store;Packs;Canyon Mule Cooler;2012;1116;32.58;0.50890117;true
+Web;Department Store;Lanterns;EverGlow Butane;2012;83;63.67;0.36186587;false
+Web;Department Store;Lanterns;EverGlow Lamp;2012;626;26.98;0.33395107;false
+Web;Department Store;Watches;Mountain Man Analog;2012;179;47.9;0.3736952;false
+Web;Department Store;Watches;Mountain Man Digital;2012;70;40.78;0.50956351;true
+Web;Department Store;Watches;Mountain Man Deluxe;2012;67;77.47;0.49657932;true
+Web;Department Store;Watches;Mountain Man Combination;2012;38;96.05;0.53149401;false
+Web;Department Store;Watches;Venue;2012;106;73;0.41863014;false
+Web;Department Store;Watches;Infinity;2012;27;220;0.47472727;false
+Web;Department Store;Watches;Lux;2012;82;169.3658537;0.47648762;false
+Web;Department Store;Watches;Sam;2012;318;44.9;0.39018364;false
+Web;Department Store;Watches;TX;2012;132;191;0.4553419;false
+Web;Department Store;Watches;Legend;2012;26;259.5769231;0.44403023;false
+Web;Department Store;Watches;Kodiak;2012;133;120.3;0.44272652;false
+Web;Department Store;Eyewear;Polar Sun;2012;128;61.02625;0.57149587;true
+Web;Department Store;Eyewear;Polar Ice;2012;55;107.3;0.53690587;false
+Web;Department Store;Eyewear;Polar Sports;2012;57;115.34;0.48950928;false
+Web;Department Store;Eyewear;Bella;2012;130;67.5;0.45348148;false
+Web;Department Store;Eyewear;Cat Eye;2012;431;32.45696056;0.33108346;true
+Web;Department Store;Eyewear;Dante;2012;658;43.12051672;0.35383477;true
+Web;Department Store;Eyewear;Fairway;2012;749;20.15;0.4023979;false
+Web;Department Store;Eyewear;Inferno;2012;120;65;0.39461538;false
+Web;Department Store;Eyewear;Maximus;2012;98;80;0.49525;false
+Web;Department Store;Eyewear;Trendi;2012;157;50.3;0.39662028;false
+Web;Department Store;Eyewear;Zone;2012;711;30.60506329;0.32593634;false
+Web;Department Store;Knives;Pocket Gizmo;2012;325;12.2;0.63442623;false
+Web;Department Store;Binoculars;Seeker 35;2012;168;98.97;0.28069112;true
+Web;Department Store;Binoculars;Seeker 50;2012;185;126.06;0.26558782;false
+Web;Department Store;Navigation;Glacier Basic;2012;561;31.74;0.36988028;false
+Web;Department Store;Navigation;Glacier GPS;2012;234;109.73;0.28415201;false
+Web;Department Store;Navigation;Trail Master;2012;22;365;0.34961644;false
+Web;Department Store;Navigation;Trail Star;2012;41;154;0.42506494;false
+Web;Department Store;Insect Repellents;BugShield Lotion;2012;1271;6.86;0.66034985;false
+Web;Department Store;Sunscreen;Sun Blocker;2012;603;4.9;0.60204082;false
+Web;Department Store;Sunscreen;Sun Shelter 15;2012;1076;4.85;0.63092784;false
+Web;Department Store;Sunscreen;Sun Shelter 30;2012;2107;4.75;0.61052632;false
+Web;Department Store;Sunscreen;Sun Shield;2012;874;5.88;0.53061224;false
+Web;Department Store;First Aid;Deluxe Family Relief Kit;2012;108;33.95;0.58645066;false
+Web;Department Store;First Aid;Calamine Relief;2012;73;6;0.52833333;true
+Web;Direct Marketing;Cooking Gear;TrailChef Kitchen Kit;2012;1193;23.09;0.31009095;false
+Web;Direct Marketing;Cooking Gear;TrailChef Deluxe Cook Set;2012;576;121.94;0.34754797;false
+Web;Direct Marketing;Cooking Gear;TrailChef Single Flame;2012;976;62.76;0.26099426;false
+Web;Direct Marketing;Cooking Gear;TrailChef Utensils;2012;1654;18.71;0.46552646;true
+Web;Direct Marketing;Tents;Star Gazer 2;2012;399;547.47;0.28293788;true
+Web;Direct Marketing;Sleeping Bags;Hibernator Self - Inflating Mat;2012;515;119.63;0.5440107;false
+Web;Direct Marketing;Sleeping Bags;Hibernator Pad;2012;524;39.43;0.51382196;false
+Web;Direct Marketing;Packs;Canyon Mule Weekender Backpack;2012;397;268.74;0.37984669;false
+Web;Direct Marketing;Lanterns;Firefly Mapreader;2012;964;15.87452282;0.52754485;false
