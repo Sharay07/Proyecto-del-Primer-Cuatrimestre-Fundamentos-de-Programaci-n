@@ -69,3 +69,5 @@ En el módulo de pruebas se han definido las siguientes funciones de pruebas, ca
 En este módulo también se definido dos funciones auxiliares:***************
 * **mostrar_registros (registros)**
 * **mostrar_diccionario(dicc)**
+
+Corregir y cambiar el csv que va mandar el profesor, lo de none y bool esta en el documento.
