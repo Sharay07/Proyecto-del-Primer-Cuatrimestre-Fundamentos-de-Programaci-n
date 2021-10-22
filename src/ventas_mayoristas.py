@@ -21,14 +21,13 @@ def lee_ventas_mayoristas(fichero):
             precio_unidad = float(precio_unidad)
             margen_de_ganancia = float(margen_de_ganancia)
 
-            if libre_de_impuestos=='true': ***********
-                libre_de_impuestos= True
+            if libre_de_impuestos =='true':
+                libre_de_impuestos = True
             else:
                 libre_de_impuestos = False
 
-                none = si hay alguna cadena vacia
-            if libre_de_impuestos==' ': ***********
-                libre_de_impuestos= none
+            if libre_de_impuestos ==' ':
+                libre_de_impuestos = None
                         
             tupla = VentasMayoristas(medio_pedido, tipo_tienda, tipo_producto, producto, fecha_compra,\
                  unidades_venta, precio_unidad, margen_de_ganancia, libre_de_impuestos)
