@@ -63,10 +63,10 @@ El módulo principal es el módulo ventas_mayoristas.py, así que aquí es donde
   * **if libre_de_impuestos =='true':**
         * **libre_de_impuestos = True**
     * **else:**
-         * **libre_de_impuestos = False**: definimos esta función porque libre_de_impuesto es de tipo boolean, **************
+        * **libre_de_impuestos = False**: definimos esta función porque libre_de_impuesto es de tipo boolean, **************
 
    * **if libre_de_impuestos ==' ':**
-         * **libre_de_impuestos = None**: definimmos esta función debido a que en el csv, nos podiamos encontrar alguna casilla sin imformación, el None denota denota falta de valor o información en dicho lugar.
+        * **libre_de_impuestos = None**: definimmos esta función debido a que en el csv, nos podiamos encontrar alguna casilla sin imformación, el None denota denota falta de valor o información en dicho lugar.
 
 
  ### Módulo poverty_test
