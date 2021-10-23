@@ -3,11 +3,11 @@ Autora: Sharay Portillo Jurado;   uvus: shaporjur;
 
 ## Estructura de las carpetas del proyecto
 
-* **/src**: Esta carpeta contiene los diferentes módulos de Python que conforman el proyecto.
-    * **ventas_mayoristas.py**: Este archivo contiene funciones para explotar los datos sobre las ventas mayoristas.
-    * **test_ventas_mayoristas.py**: este archivo contiene funciones de test para probar las funciones del módulo `ventas_mayoristas.py`. Además en este módulo está el main.
-* **/data**: Esta carpeta contiene el dataset o datasets del proyecto
-    * **poverty_data.csv**: Este archivo contiene los datos de ventas mayoristas que van a ser explotados.
+* **/src**: esta carpeta contiene los diferentes módulos de Python que conforman el proyecto.
+    * **ventas_mayoristas.py**: este archivo contiene funciones para explotar los datos sobre las ventas mayoristas.
+    * **test_ventas_mayoristas.py**: este archivo contiene funciones de test para probar las funciones del módulo `ventas_mayorista.py`. Además en este módulo está el main.
+* **/data**: esta carpeta contiene el dataset o datasets del proyecto
+    * **ventas_mayorista.csv**: este archivo contiene los datos de ventas mayoristas que van a ser explotados.
 
 ## Estructura del *dataset*
 
@@ -16,12 +16,12 @@ En cada fila del dataset se recogen los datos anonimizados de una persona, es de
 * **medio_pedido**: de tipo str, representa el medio por el que se han vendido los productos.
 * **tipo_tienda**: de tipo str, representa el tipo de tienda en el que se han vendido los productos.
 * **tipo_producto**: de tipo str, representa el tipo de producto que se ha vendido los productos.
-* **producto**: de tipo date.time, representa el producto que se ha vendido.
-* **fecha_compra**: de tipo int, representa la fecha de la venta.
-* **unidades_venta**: de tipo int, representa las unidades vendidas del producto
+* **producto**: de tipo str, representa el producto que se ha vendido.
+* **fecha_compra**: de tipo date.time, representa la fecha de la venta.
+* **unidades_venta**: de tipo int, representa las unidades vendidas del producto.
 * **precio_unidad**: de tipo float, representa el precio del producto por unidad.
 * **margen_de_ganancia**: de tipo float, representa el margen de ganacia que tien el verdedor.
-* **libre_de_impuestos**: de tipo boolean, representa si la venta ha sido libre de impuesto o no
+* **libre_de_impuestos**: de tipo boolean, representa si la venta ha sido libre de impuesto o no.
 
 ## Tipos implementados
 
@@ -33,7 +33,7 @@ VentasMayoristas =  namedtuple('VentasMayoristas', 'medio_pedido, tipo_tienda, t
 
 en la que los tipos de cada uno de los campos son los siguientes:
 
-`VentasMayoristas(str, str, str, date.time, int, int, float, float, boolen)`
+`VentasMayoristas(str, str, str, str, date.time, int, float, float, boolean)`
 
 **********************Las decisiones de diseño más destacadas de este tipo son:
 * El campo genero es de tipo str, en lugar de boolean como aparece en el dataset original, y puede tomar los valores 'Hombre' o 'Mujer'..********************
@@ -48,26 +48,35 @@ El módulo principal es el módulo ventas_mayoristas.py, así que aquí es donde
 #### Entrega del proyecto
 
 * **Comienzo**  
-  * **lee_fichero(fichero)**: lee los datos del fichero csv, exactamente de ventas_mayoristas.csv y devuelve una lista de tuplas de tipo VentasMayoristas con los datos del fichero. Para implementar esta función se han definido las siguientes funciones auxiliares en la parte superior del archivo:
+  * **lee_fichero(fichero)**: lee los datos del fichero csv, exactamente de ventas_mayorista.csv y devuelve una lista de tuplas de tipo VentasMayoristas con los datos del fichero. Para implementar esta función se han definido las siguientes funciones auxiliares en la parte superior del archivo:
 
     * **import csv**: Función para importar la informcaión del csv
     * **from collections import namedtuple**: Función para poder crear una tupla con nombre
     * **from datetime import datetime**: Función para convertir de cadena a fecha.   
-***********************la del boolen
+
 
  * **Función 1**
 
-  * **lee_ventas_mayoristas(fichero)**: Dadas una lista de tuplas de tipo **********,
+  * **lee_ventas_mayoristas(fichero)**:  lee los datos del fichero csv y devuelve una lista de tuplas de tipo Info con los datos del fichero. Para implementar esta función hemos tenido que definir funciones auxiliares:
+
+
+  * **if libre_de_impuestos =='true':**
+        * **libre_de_impuestos = True**
+    * **else:**
+         * **libre_de_impuestos = False**: definimos esta función porque libre_de_impuesto es de tipo boolean, **************
+
+   * **if libre_de_impuestos ==' ':**
+         * **libre_de_impuestos = None**: definimmos esta función debido a que en el csv, nos podiamos encontrar alguna casilla sin imformación, el None denota denota falta de valor o información en dicho lugar.
 
 
  ### Módulo poverty_test
 
-En el módulo de pruebas se han definido las siguientes funciones de pruebas, cada una de las cuales se usa para probar la función con que tiene el mismo nombre (pero sin comenzar por `test\_` del módulo `ventas_mayoristas`. Por ejemplo, la función `test_lee_ventas_mayoristas` prueba la función `lee_ventas_mayoristas`.
+En el módulo de pruebas se han definido las siguientes funciones de pruebas, cada una de las cuales se usa para probar la función con que tiene el mismo nombre (pero sin comenzar por `test\_` del módulo `ventas_mayoristas`. 
 
-* **test_lee_ventas_mayoristas(fichero)**
+* **test_lee_ventas_mayoristas(fichero)**: en este caso, a función `test_lee_ventas_mayoristas` prueba la función `lee_ventas_mayoristas`.
 
-En este módulo también se definido dos funciones auxiliares:***************
-* **mostrar_registros (registros)**
-* **mostrar_diccionario(dicc)**
+En el interior de este módulo podemos ver dos funciones auxiliares más:
 
-Corregir y cambiar el csv que va mandar el profesor, lo de none y bool esta en el documento.
+ * **print("Mostrando los 3 primeros:")**: que muestra las 3 primeras líenas del del csv.
+ * **print("Mostrando los 3 útimos:")**: que muestra las 3 últimas líenas del del csv.
+
