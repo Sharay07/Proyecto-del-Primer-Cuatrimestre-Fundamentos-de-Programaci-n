@@ -1,4 +1,4 @@
-# Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  21/21ç2)
+# Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  21/22)
 Autora: Sharay Portillo Jurado;   uvus: shaporjur;
 
 ## Estructura de las carpetas del proyecto
@@ -11,7 +11,7 @@ Autora: Sharay Portillo Jurado;   uvus: shaporjur;
 
 ## Estructura del *dataset*
 
-En cada fila del dataset se recogen los datos anonimizados de una persona, es decir, no sabemos sus nombre ni sus apellidos. Para cada persona se registran 9 datos. Por lo tanto, el dataset está compuesto por 9 columnas, con la siguiente descripción:
+En cada fila del dataset se recogen los datos de la ventas de unos productos. Para cada venta se registran 9 datos. Por lo tanto, el dataset está compuesto por 9 columnas, con la siguiente descripción:
 
 * **medio_pedido**: de tipo str, representa el medio por el que se han vendido los productos.
 * **tipo_tienda**: de tipo str, representa el tipo de tienda en el que se han vendido los productos.
@@ -35,9 +35,6 @@ en la que los tipos de cada uno de los campos son los siguientes:
 
 `VentasMayoristas(str, str, str, str, date.time, int, float, float, boolean)`
 
-**********************Las decisiones de diseño más destacadas de este tipo son:
-* El campo genero es de tipo str, en lugar de boolean como aparece en el dataset original, y puede tomar los valores 'Hombre' o 'Mujer'..********************
-
 ## Funciones implementadas
 
 En este proyecto se han implementado las siguientes funciones, que están clasificadas según los bloques y tipos de funciones que se requieren en cada una de las entregas.
@@ -48,32 +45,33 @@ El módulo principal es el módulo ventas_mayoristas.py, así que aquí es donde
 #### Entrega del proyecto
 
 * **Comienzo**  
+
   * **lee_fichero(fichero)**: lee los datos del fichero csv, exactamente de ventas_mayorista.csv y devuelve una lista de tuplas de tipo VentasMayoristas con los datos del fichero. Para implementar esta función se han definido las siguientes funciones auxiliares en la parte superior del archivo:
 
-    * **import csv**: Función para importar la informcaión del csv
-    * **from collections import namedtuple**: Función para poder crear una tupla con nombre
-    * **from datetime import datetime**: Función para convertir de cadena a fecha.   
+    * **import csv**: función para importar la informcaión del csv.
+    * **from collections import namedtuple**: función para poder crear una tupla con nombre.
+    * **from datetime import datetime**: función para convertir de cadena a fecha.   
 
 
- * **Función 1**
+ * **Funciones**
 
   * **lee_ventas_mayoristas(fichero)**:  lee los datos del fichero csv y devuelve una lista de tuplas de tipo Info con los datos del fichero. Para implementar esta función hemos tenido que definir funciones auxiliares:
 
 
  * **if libre_de_impuestos =='true':**
     * **libre_de_impuestos = True**
-* **else:**
+ * **else:**
     * **libre_de_impuestos = False**
-    : definimos esta función porque libre_de_impuesto es de tipo boolean, **************
+    : definimos esta función porque libre_de_impuesto es de tipo boolean, en este caso nos llega la información en tipo str, por tanto comprobamos si la palabra que nos llega es 'true', guardamos el valor del boolean como True y en el caso que no se cumpla lo guardamos como False.
 
-* **if libre_de_impuestos ==' ':**
-    * **libre_de_impuestos = None**
-    : definimmos esta función debido a que en el csv, nos podiamos encontrar alguna casilla sin imformación, el None denota denota falta de valor o información en dicho lugar.
+ * **if fecha_compra ==' ':**
+    * **fecha_compra = None**
+    : definimmos esta función debido a que en el csv nos podiamos encontrar alguna casilla sin imformación, el None denota falta de valor o información en dicho lugar.
 
 
- ### Módulo poverty_test
+ ### Módulo test_ventas_mayoristas
 
-En el módulo de pruebas se han definido las siguientes funciones de pruebas, cada una de las cuales se usa para probar la función con que tiene el mismo nombre (pero sin comenzar por `test\_` del módulo `ventas_mayoristas`. 
+En el módulo de pruebas se han definido las siguientes funciones de pruebas, cada una de las cuales se usa para probar la función con que tiene el mismo nombre pero sin comenzar por `test\_` del módulo `ventas_mayoristas`. 
 
 * **test_lee_ventas_mayoristas(fichero)**: en este caso, a función `test_lee_ventas_mayoristas` prueba la función `lee_ventas_mayoristas`.
 

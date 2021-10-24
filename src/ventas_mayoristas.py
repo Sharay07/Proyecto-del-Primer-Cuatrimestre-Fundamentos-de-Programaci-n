@@ -26,8 +26,8 @@ def lee_ventas_mayoristas(fichero):
             else:
                 libre_de_impuestos = False
 
-            if libre_de_impuestos ==' ':
-                libre_de_impuestos = None
+            if  fecha_compra ==' ':
+                fecha_compra = None
                         
             tupla = VentasMayoristas(medio_pedido, tipo_tienda, tipo_producto, producto, fecha_compra,\
                  unidades_venta, precio_unidad, margen_de_ganancia, libre_de_impuestos)
