@@ -3,8 +3,8 @@ from collections import namedtuple
 from datetime import datetime
 
 VentasMayoristas =  namedtuple('VentasMayoristas', 'medio_pedido, tipo_tienda, tipo_producto, \
-                            producto, fecha_compra, unidades_venta, \
-                            precio_unidad, margen_de_ganancia, libre_de_impuestos')
+                               producto, fecha_compra, unidades_venta, \
+                               precio_unidad, margen_de_ganancia, libre_de_impuestos')
 
 def lee_ventas_mayoristas(fichero):
     
