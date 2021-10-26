@@ -56,11 +56,13 @@ El módulo principal es el módulo ventas_mayoristas.py, así que aquí es donde
       * **libre_de_impuestos = True**
    * **else:**
       * **libre_de_impuestos = False**
-    : definimos esta función porque libre_de_impuesto es de tipo boolean, en este caso nos llega la información en tipo str, por tanto comprobamos si la palabra que nos llega es 'true', guardamos el valor del boolean como True y en el caso que no se cumpla lo guardamos como False.
+   
+   : definimos esta función porque libre_de_impuesto es de tipo boolean, en este caso nos llega la información en tipo str, por tanto comprobamos si la palabra que nos llega es 'true', guardamos el valor del boolean como True y en el caso que no se cumpla lo guardamos como False.
 
    * **if fecha_compra ==' ':**
       * **fecha_compra = None**
-    : definimmos esta función debido a que en el csv nos podiamos encontrar alguna casilla sin imformación, el None denota falta de valor o información en dicho lugar.
+   
+   : definimmos esta función debido a que en el csv nos podiamos encontrar alguna casilla sin imformación, el None denota falta de valor o información en dicho lugar.
 
  ### Módulo test_ventas_mayoristas.
 
