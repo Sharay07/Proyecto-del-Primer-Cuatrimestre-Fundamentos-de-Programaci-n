@@ -15,6 +15,9 @@ def lee_ventas_mayoristas(fichero):
         registro=[]
         for medio_pedido, tipo_tienda, tipo_producto, producto, fecha_compra, unidades_venta, \
             precio_unidad, margen_de_ganancia, libre_de_impuestos in lector:
+                
+            if  fecha_compra =='':
+                fecha_compra = None
             
             fecha_compra = datetime.strptime(fecha_compra, "%d/%m/%Y").date()
             unidades_venta = int(unidades_venta)
@@ -25,9 +28,6 @@ def lee_ventas_mayoristas(fichero):
                 libre_de_impuestos = True
             else:
                 libre_de_impuestos = False
-
-            if  fecha_compra ==' ':
-                fecha_compra = None
                         
             tupla = VentasMayoristas(medio_pedido, tipo_tienda, tipo_producto, producto, fecha_compra,\
                  unidades_venta, precio_unidad, margen_de_ganancia, libre_de_impuestos)
